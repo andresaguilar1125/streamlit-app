@@ -1,0 +1,1209 @@
+datetime,category,amount,detail
+02/17/2023 11:00 AM,Medico,23000,Mari | Placa Plaza Viquez
+02/23/2023 04:40 PM,Medico,40000,Mari | Placa Medica Sur
+03/28/2023 09:40 AM,Medico,28000,Mari | Tiroides
+04/14/2023 02:00 PM,Familiar,140000,Mari | Xiaomi Redmi Note 12
+05/05/2023 10:46 AM,Familiar,25610,Andres | Python Certificacion PCEP3002
+05/11/2023 03:00 PM,Familiar,39883,Andres | Firma Digital BCR
+06/01/2023 06:18 AM,Viajes,6410,Uber Andres | Taller Costura - 106 Heredia
+06/01/2023 04:47 PM,Viajes,6410,Uber Andres | Taller Costura - 106 Heredia
+06/01/2023 06:10 PM,Super,5480,Pali San Josecito
+06/02/2023 06:25 AM,Comida,8090,Distrito 87
+06/02/2023 01:40 PM,Viajes,1306,Uber Mari | CReal San Juan de Dios - San Rafael Abajo
+06/02/2023 05:40 PM,Super,34160,Pali San Josecito
+06/03/2023 12:00 AM,Recibos,8000,UberPass
+06/03/2023 03:46 PM,Viajes,1804,Uber Mari | Av46 Hatillo Centro - Taller Costura
+06/03/2023 09:26 PM,Viajes,2290,Uber Mari | Taller Costura - San Rafael Abajo
+06/05/2023 02:45 PM,Super,12000,Roberto Verduras
+06/05/2023 05:34 PM,Super,7415,Pali San Josecito
+06/06/2023 05:37 AM,Viajes,1099,Uber Andres | Taller Costura - Alajuelita
+06/06/2023 08:45 AM,Viajes,1460,Uber Mari | Taller Costura - Alajuelita
+06/06/2023 09:18 AM,Viajes,900,Uber Mari | Alajuelita - San Rafael Abajo
+06/06/2023 12:13 PM,Viajes,1400,Uber Mari | Estructuras Jimenez - San Rafael Abajo
+06/06/2023 04:30 PM,Comida,5500,Burber King
+06/06/2023 04:35 PM,Viajes,2946,Didi Andres | Escuela Villalobos Heredia - Clnica Medica del Sur Hatillo
+06/08/2023 09:15 AM,Viajes,1606,Didi Mari | Taller Costura - Estructuras Hermanos Jimenez San Jose
+06/09/2023 10:31 AM,Recibos,13980,AYA
+06/09/2023 10:35 AM,Recibos,32000,CNFL
+06/09/2023 10:50 AM,Comida,5500,Burber King
+06/09/2023 04:38 PM,Super,36810,Pali San Josecito
+06/11/2023 06:41 AM,Viajes,3025,Uber Andres | Taller Costura - Desamparados
+06/11/2023 11:50 AM,Comida,5200,Satay
+06/12/2023 05:21 PM,Super,6140,Pali San Josecito
+06/13/2023 12:06 PM,Viajes,1590,Uber Mari | Taller Costura - 110 Hatillo No 4
+06/13/2023 02:19 PM,Viajes,1163,Uber Mari | AvCentral Alajuelita - Taller Costura
+06/13/2023 07:19 PM,Viajes,3612,Uber Andres | Taller Costura - Sabanilla
+06/13/2023 10:10 PM,Viajes,1243,Uber Andres | C93 Sabanilla - 202 Sabanilla
+06/13/2023 11:13 PM,Viajes,3658,Uber Andres | 202 Sabanilla - Taller Costura
+06/14/2023 09:57 AM,Viajes,1635,Uber Andres | Taller Costura - Alajuelita
+06/15/2023 05:00 PM,Super,4650,Mxm Plaza America
+06/15/2023 05:40 PM,Viajes,2558,Uber Andres | A vei 48A Hatillo Centro - Taller Costura
+06/17/2023 08:32 AM,Viajes,2205,Uber Andres | Taller Costura - San Rafael Abajo
+06/17/2023 08:02 PM,Comida,8400,Ready Pizza
+06/18/2023 12:08 AM,Viajes,3808,Uber Mari | CCentral Alfredo Volio Catedral - Taller Costura
+06/18/2023 03:09 PM,Viajes,1072,Uber Mari | Taller Costura - CCambronero Alajuelita
+06/18/2023 06:20 PM,Viajes,1828,Uber Mari | CCambronero Alajuelita - Taller Costura
+06/18/2023 10:00 PM,Comida,10355,Distrito 87
+06/19/2023 05:50 AM,Viajes,4461,Uber Marvin | Taller Costura - Guarari Heredia
+06/19/2023 06:53 AM,Viajes,3193,Uber Mari | Taller Costura - San Rafael Abajo
+06/19/2023 11:26 AM,Viajes,1473,Uber Mari | C12 San Sebastian - San Rafael Abajo
+06/19/2023 06:40 PM,Super,65930,Pali San Josecito
+06/20/2023 01:43 PM,Familiar,20000,Marvin | Herramientas Dia Padre
+06/21/2023 12:35 PM,Viajes,1670,Uber Mari | Valencia 214 San Rafael Abajo - San Rafael Abajo
+06/21/2023 07:11 PM,Viajes,2488,Uber Andres | Taller Costura - PColon Merced
+06/21/2023 09:36 PM,Viajes,4377,Uber Andres | Edificio Joissar Coca Cola - Taller Costura
+06/24/2023 03:12 AM,Viajes,2086,Uber Andres | Taller Costura - De la Panaderia Musmanni Aurora Alajuelita
+06/24/2023 07:34 AM,Viajes,2100,Uber Andres | CLa Verbena La Aurora Alajuelita - Taller Costura
+06/24/2023 09:00 PM,Comida,6248,McDonalds
+06/25/2023 07:16 AM,Viajes,3007,Uber Andres | Las Mercedes Salitrillos - Taller Costura
+06/25/2023 09:10 AM,Viajes,2629,Uber Andres | Taller Costura - Aserri
+06/25/2023 05:40 PM,Super,4000,Roberto Verduras
+06/27/2023 09:02 AM,Viajes,3016,Uber Mari | PColon Merced - San Rafael Abajo
+06/27/2023 12:13 PM,Super,8000,Steve Huevos
+06/27/2023 10:43 PM,Viajes,5398,Uber Mari | PColon Merced - Taller Costura
+06/28/2023 07:51 PM,Viajes,2044,Uber Andres | Taller Costura - PColon Merced
+06/28/2023 10:12 PM,Viajes,3002,Uber Andres | Edificio Joissar Coca Cola - Taller Costura
+06/29/2023 05:45 PM,Super,2800,Mxm Plaza America
+06/29/2023 06:17 PM,Viajes,2123,Uber Andres | Hatillo Centro - Taller Costura
+06/29/2023 08:36 PM,Viajes,1219,Uber Andres | Taller Costura - 217 Aserri
+06/29/2023 10:24 PM,Viajes,1830,Uber Andres | Poas 25 metros sureste de la plaza de deportes Aserri - Taller Costura
+06/30/2023 06:42 AM,Viajes,1592,Uber Mari | Estructuras Jimenez - San Rafael Abajo
+06/30/2023 08:35 AM,Recibos,10865,Kolbi
+06/30/2023 10:17 PM,Viajes,3337,Uber Mari | PColon Merced - Taller Costura
+07/01/2023 08:36 AM,Recibos,17550,AYA
+07/01/2023 11:20 AM,Comida,7910,KFC
+07/01/2023 12:00 PM,Recibos,10866,Kolbi
+07/01/2023 07:30 PM,Super,29250,Pali San Josecito
+07/02/2023 10:32 AM,Viajes,1595,Uber Andres | Taller Costura - Alajuelita
+07/02/2023 12:55 PM,Super,265000,Mxm Plaza America
+07/03/2023 12:00 AM,Recibos,8000,UberPass
+07/03/2023 08:30 PM,Super,5000,Roberto Verduras
+07/03/2023 10:05 PM,Viajes,5519,Uber Mari | PColon Merced - Taller Costura
+07/04/2023 11:23 AM,Viajes,1675,Uber Mari | Castro Madriz - Frente a la Rotonda de San Sebastian 214
+07/04/2023 12:11 PM,Viajes,1333,Uber Mari | C12 San Sebastian - San Rafael Abajo
+07/04/2023 02:59 PM,Viajes,2195,Uber Andres | Taller Costura - C68 Nunciatura
+07/04/2023 06:29 PM,Viajes,3842,Uber Andres | 104 Rancho Luna - Taller Costura
+07/05/2023 10:40 AM,Medico,24500,Andres | Antibacterial Gotas Ojos
+07/05/2023 09:24 PM,Viajes,3560,Uber Mari | PColon Merced - Taller Costura
+07/06/2023 09:38 AM,Viajes,1492,Uber Mari | Taller Costura - CCambronero Alajuelita
+07/06/2023 09:58 AM,Viajes,959,Uber Mari | CCambronero Alajuelita - San Rafael Abajo
+07/06/2023 03:10 PM,Viajes,3731,Uber Mari | C2 Dolorosa - Taller Costura
+07/06/2023 04:10 PM,Super,15325,Pali San Josecito
+07/08/2023 05:27 PM,Viajes,4937,Uber Andres | Sauces San Francisco de Dos Rios - Taller Costura
+07/08/2023 05:27 PM,Viajes,3992,Uber Andres | Taller Costura - Sauces San Francisco de Dos Rios
+07/08/2023 05:59 PM,Viajes,2744,Uber Andres | Taller Costura - Av1 Pitahaya Pitahaya 10102
+07/09/2023 03:15 AM,Viajes,1196,Uber Mari | Costado oeste de WalMart San Sebastian - San Rafael Abajo
+07/09/2023 08:29 AM,Viajes,2823,Uber Andres | Av1A 26 Pitahaya 10102 - Taller Costura
+07/09/2023 10:25 AM,Super,7500,Steve Huevos
+07/10/2023 05:25 AM,Viajes,1550,Uber Mari | Taller Costura - Alajuelita
+07/10/2023 10:00 AM,Recibos,20000,IPTV 3 meses
+07/10/2023 01:29 PM,Viajes,3239,Uber Mari | PColon Merced - Taller Costura
+07/11/2023 06:42 AM,Viajes,3796,Uber Andres | Taller Costura - C68 Nunciatura
+07/11/2023 08:35 AM,Comida,10350,McDonalds
+07/11/2023 09:08 AM,Viajes,3012,Uber Andres | Diag3A Nunciatura - Taller Costura
+07/11/2023 11:41 AM,Viajes,2679,Uber Mari | Taller Costura - PColon Merced
+07/11/2023 01:18 PM,Viajes,2705,Uber Mari | PColon Merced - Taller Costura
+07/11/2023 06:15 PM,Viajes,2834,Uber Andres | Taller Costura - Multiplaza Escazu
+07/12/2023 12:49 AM,Viajes,5997,Uber Andres | 400 sur del Mc Donalds CMachete Santa Ana 20090 - Taller Costura
+07/12/2023 02:45 PM,Viajes,2647,Uber Mari | C6 Merced - Taller Costura
+07/12/2023 04:40 PM,Super,28780,Pali San Josecito
+07/13/2023 11:29 AM,Viajes,2528,Uber Mari | Estructuras Jimenez - PColon Merced
+07/14/2023 11:18 AM,Viajes,3665,Uber Andres | Taller Costura - PColon Merced
+07/14/2023 12:50 PM,Comida,13450,Quiznos
+07/14/2023 01:50 PM,Viajes,3778,Uber Andres | Av Central Av2 SJO - Taller Costura
+07/14/2023 04:40 PM,Recibos,33015,Cabletica
+07/14/2023 04:41 PM,Recibos,23170,CNFL
+07/14/2023 06:00 PM,Medico,13000,Mari | Hemograma Medica Sur
+07/14/2023 06:10 PM,Medico,36900,Mari | Consulta Medica Sur
+07/14/2023 09:46 PM,Viajes,3665,Uber Andres | Taller Costura - PColon Merced
+07/15/2023 12:20 AM,Viajes,3778,Uber Andres | Av Central Av2 SJO - Taller Costura
+07/15/2023 05:41 AM,Viajes,2207,Uber Andres | Av48A Hatillo Centro - Taller Costura
+07/16/2023 05:50 PM,Viajes,1230,Didi Mari | Taller Costura - Parque Alajuelita San Jose
+07/16/2023 11:00 PM,Comida,8810,KFC
+07/19/2023 10:19 AM,Viajes,2636,Uber Mari | Pacifico - Alajuelita
+07/19/2023 11:05 AM,Viajes,2027,Uber Andres | San Rafael Abajo - Taller Costura
+07/19/2023 07:48 PM,Viajes,4280,Didi Andres | Taller Costura - Estadio Manolo Amador Sabanilla San Jose
+07/20/2023 05:10 PM,Viajes,4360,Uber Andres | Taller Costura - Lincoln Plaza Av65 Los Colegios San Vicente
+07/20/2023 05:20 PM,Familiar,16100,Andres | Xiaomi Desatornilladores
+07/20/2023 10:00 PM,Comida,3300,Burber King
+07/20/2023 10:25 PM,Viajes,1997,Uber Andres | Av48A Hatillo Centro - Taller Costura
+07/21/2023 09:20 PM,Viajes,1771,Uber Andres | Taller Costura - 110 Hatillo No 4
+07/22/2023 12:10 PM,Comida,11600,Burber King
+07/24/2023 01:24 PM,Comida,7000,Ready Pizza
+07/25/2023 06:55 PM,Super,34980,Pali San Josecito
+07/26/2023 05:55 AM,Viajes,1793,Uber Mari | Estructuras Jimenez - Taller Costura
+07/26/2023 03:21 PM,Super,8740,Pali San Josecito
+07/27/2023 08:20 AM,Comida,6486,KFC
+07/27/2023 07:42 PM,Viajes,4396,Uber Andres | Taller Costura - Sabanilla
+07/27/2023 10:47 PM,Viajes,4040,Didi Andres | Estadio Manolo Amador Sabanilla - Taller Costura
+07/28/2023 08:41 AM,Viajes,2009,Uber Mari | Taller Costura - San Rafael Abajo
+07/28/2023 06:40 PM,Super,14140,Pali San Josecito
+07/30/2023 09:06 PM,Viajes,3111,Uber Andres | Taller Costura - Rotonda de la Fuente de La Hispanidad San Pedro
+07/30/2023 09:33 PM,Comida,4790,KFC
+07/31/2023 06:30 AM,Viajes,2019,Uber Mari | Taller Costura - San Rafael Abajo
+07/31/2023 12:30 PM,Viajes,1957,Uber Mari | Valencia 214 San Rafael Abajo - CCambronero Alajuelita
+07/31/2023 09:08 PM,Viajes,4400,Didi Andres | Avenida 15 - Salon Comunal Las Vistas Alajuelita
+08/01/2023 12:00 AM,Recibos,6000,UberPass
+08/01/2023 02:16 PM,Viajes,2489,Uber Andres | Taller Costura - Sabana Torre Medica
+08/01/2023 03:11 PM,Comida,8500,Quiznos
+08/01/2023 04:00 PM,Viajes,4376,Uber Andres | BvErnesto Rohrmoser - Alajuelita
+08/01/2023 04:12 PM,Super,17840,Pali San Josecito
+08/03/2023 11:19 AM,Medico,40000,Mari | Consulta Medica Sur
+08/03/2023 11:23 AM,Super,12000,Roberto Verduras
+08/03/2023 01:52 PM,Viajes,1100,Didi Mari | Taller Costura - Clinica Nueva Alajuelita
+08/03/2023 04:53 PM,Viajes,1290,Uber Mari | 105 Alajuelita - Taller Costura
+08/04/2023 08:30 AM,Super,19385,Pali San Josecito
+08/04/2023 06:13 PM,Comida,5240,Ready Pizza
+08/05/2023 07:17 AM,Viajes,1890,Uber Mari | Taller Costura - San Rafael Abajo
+08/05/2023 02:01 PM,Viajes,3388,Uber Mari | Pacifico - Alajuelita
+08/05/2023 03:00 PM,Viajes,1483,Uber Mari | AvCentral Alajuelita - Taller Costura
+08/06/2023 11:20 AM,Viajes,1190,Uber Mari | CCambronero Alajuelita - Taller Costura
+08/06/2023 05:40 PM,Super,46625,Pali San Josecito
+08/07/2023 06:34 AM,Viajes,2083,Uber Mari | Taller Costura - Zona Centro San Rafael Abajo
+08/11/2023 08:00 PM,Comida,5000,Distrito 87
+08/12/2023 10:03 AM,Recibos,31390,CNFL
+08/12/2023 10:06 AM,Recibos,33015,Cabletica
+08/12/2023 10:27 AM,Super,8000,Steve Huevos
+08/13/2023 11:13 AM,Super,13170,Pali San Josecito
+08/13/2023 02:36 PM,Viajes,3766,Uber Marvin | Taller Costura - Guarari Heredia
+08/14/2023 10:11 PM,Viajes,4919,Uber Andres | Taller Costura - Los Yoses San Pedro
+08/14/2023 10:43 PM,Viajes,5395,Uber Andres | BlvdLos Yoses 11501 Los Yoses - Taller Costura
+08/15/2023 01:34 PM,Super,8000,Steve Huevos
+08/15/2023 07:32 PM,Viajes,4744,Uber Andres | 106 17 Heredia - Taller Costura
+08/16/2023 06:32 AM,Viajes,2330,Uber Mari | Taller Costura - San Rafael Abajo
+08/16/2023 09:10 AM,Viajes,2290,Uber Mari | 209 10111 - San Rafael Abajo
+08/16/2023 02:11 PM,Recibos,10866,Kolbi
+08/17/2023 12:40 PM,Familiar,17100,Andres | Camara Xiaomi Descuento -20
+08/17/2023 01:33 PM,Super,12000,Roberto Verduras
+08/18/2023 03:17 AM,Viajes,4972,Uber Andres | Taller Costura - C107 Guayabos Granadilla 11801
+08/18/2023 08:23 AM,Viajes,5389,Uber Andres | C107 Guayabos Granadilla 11801 - Taller Costura
+08/18/2023 09:39 AM,Viajes,1947,Uber Mari | Taller Costura - San Rafael Abajo
+08/18/2023 12:24 PM,Viajes,1237,Uber Mari | CReal San Juan de Dios San Rafael Abajo - San Rafael Abajo
+08/18/2023 02:47 PM,Super,39040,Pali San Josecito
+08/19/2023 10:39 AM,Viajes,3149,Uber Mari | CCentral Alfredo Volio Catedral - Taller Costura
+08/19/2023 11:57 AM,Viajes,1589,Uber Mari | Taller Costura - Alajuelita
+08/19/2023 01:35 PM,Super,190490,Maxipali Alajuelita
+08/20/2023 10:25 PM,Comida,4100,McDonalds
+08/20/2023 11:56 PM,Viajes,4690,Uber Andres | 202 Sabanilla - Taller Costura
+08/21/2023 08:51 AM,Viajes,1490,Uber Mari | Camelias - Avenue 10 Gonzalez Lahmann
+08/22/2023 12:20 PM,Viajes,3690,Uber Andres | Taller Costura - Avenida 4 Roosevelt San Pedro
+08/22/2023 12:50 PM,Comida,9170,McDonalds
+08/22/2023 12:56 PM,Viajes,3449,Uber Andres | Avenida 4 Roosevelt San Pedro - Taller Costura
+08/22/2023 11:34 PM,Recibos,17268,AYA
+08/23/2023 07:48 AM,Viajes,2644,Uber Mari | Taller Costura - San Rafael Abajo
+08/23/2023 04:50 PM,Viajes,1391,Uber Mari | San Rafael Abajo - Alajuelita
+08/23/2023 05:52 PM,Viajes,1090,Uber Mari | Alajuelita - Taller Costura
+08/24/2023 07:02 AM,Viajes,4700,Uber Andres | 110 Hatillo Centro - Heredia Province Heredia
+08/24/2023 05:56 PM,Viajes,5194,Uber Andres | 106 Heredia - Comercial Plaza America Av50 Hatillo Centro
+08/25/2023 05:20 PM,Super,9000,Roberto Verduras
+08/26/2023 12:37 PM,Viajes,2790,Uber Mari | CCentral Alfredo Volio Catedral - Taller Costura
+08/26/2023 02:50 PM,Super,38800,Pali San Josecito
+08/26/2023 05:59 PM,Viajes,1679,Uber Mari | CTanque Alajuelita - San Rafael Abajo
+08/29/2023 08:20 AM,Super,6000,Steve Huevos
+08/29/2023 12:00 PM,Comida,5260,Ready Pizza
+08/29/2023 06:39 PM,Viajes,3589,Uber Andres | Taller Costura - XX2FHP2 Mata de Platano
+08/29/2023 09:50 PM,Super,8400,Mxm Plaza America
+08/31/2023 06:11 AM,Viajes,1390,Uber Andres | Taller Costura - Alajuelita
+09/01/2023 12:00 AM,Recibos,6000,UberPass
+09/01/2023 11:13 AM,Viajes,1865,Uber Andres | Taller Costura - San Rafael Abajo
+09/01/2023 12:00 PM,Recibos,10866,Kolbi
+09/01/2023 08:53 PM,Viajes,4960,Didi Andres | Escuela Villalobos Heredia - Centro Comercial Plaza America
+09/03/2023 02:08 AM,Viajes,3290,Uber Andres | Av70 Desamparados - Taller Costura
+09/03/2023 01:15 PM,Medico,50000,Mari | Tiroides
+09/03/2023 04:40 PM,Viajes,2699,Uber Andres | CSan Josecito Alajuelita - Av44A Moreno Canas 10105
+09/03/2023 09:48 PM,Viajes,3490,Uber Andres | C39A Moreno Canas - Taller Costura
+09/04/2023 11:30 AM,Super,6000,Roberto Verduras
+09/04/2023 01:15 PM,Medico,15000,Mari | Inyectables
+09/04/2023 01:18 PM,Viajes,3190,Uber Mari | Pacifico - Taller Costura
+09/04/2023 05:33 PM,Viajes,1691,Uber Mari | Taller Costura - San Rafael Abajo
+09/04/2023 09:52 PM,Viajes,3390,Uber Andres | Taller Costura - VWVHM32 Desamparados
+09/05/2023 04:29 PM,Viajes,1690,Uber Mari | San Rafael Abajo - Taller Costura
+09/05/2023 06:00 PM,Super,34290,Pali San Josecito
+09/06/2023 07:05 AM,Viajes,1910,Didi Mari | Taller Costura - Plaza Higuerones Desamparados San Jose
+09/06/2023 08:06 AM,Viajes,1680,Didi Mari | San Rafael Abajo - Antiguo Radio Reloj San Jose
+09/06/2023 08:55 AM,Viajes,1582,Uber Mari | 209 10111 - Avenue 10 Gonzalez Lahmann
+09/06/2023 09:34 AM,Viajes,1590,Uber Mari | Avenue 10 Gonzalez Lahmann - Camelias Cascajal
+09/06/2023 10:23 AM,Viajes,2090,Uber Mari | 209 10111 - San Rafael Abajo
+09/06/2023 10:24 AM,Viajes,2340,Uber Mari | 209 10111 - San Rafael Abajo
+09/06/2023 12:15 PM,Viajes,1190,Uber Mari | Valencia 214 San Rafael Abajo - San Rafael Abajo
+09/07/2023 05:33 AM,Viajes,1250,Didi Andres | Taller Costura - Clinica Nueva Alajuelita
+09/07/2023 04:13 PM,Viajes,3240,Didi Andres | Escuela Villalobos Heredia - Centro Comercial Plaza America
+09/07/2023 04:20 PM,Super,6450,Mxm Plaza America
+09/07/2023 04:45 PM,Super,5140,Pali San Josecito
+09/07/2023 09:20 PM,Super,3000,Roberto Verduras
+09/08/2023 09:20 AM,Recibos,33015,Cabletica
+09/09/2023 02:29 PM,Recibos,24350,CNFL
+09/10/2023 11:48 AM,Comida,7530,McDonalds
+09/11/2023 03:03 PM,Viajes,2090,Uber Andres | Taller Costura - Via 110 Hatillo Centro
+09/11/2023 03:16 PM,Viajes,5990,Uber Mari | C6 Merced - Taller Costura
+09/11/2023 03:35 PM,Viajes,1890,Uber Andres | Via 110 Hatillo Centro - Alajuelita
+09/11/2023 03:50 PM,Super,10235,Pali San Josecito
+09/11/2023 04:20 PM,Medico,20190,Andres | Examenes Sangre Medica Sur
+09/15/2023 11:43 AM,Viajes,2599,Uber Andres | Taller Costura - San Rafael Abajo
+09/15/2023 12:29 PM,Viajes,1082,Uber Mari | Valencia 214 San Rafael Abajo - San Rafael Abajo
+09/15/2023 02:58 PM,Viajes,992,Uber Mari | Estructuras Jimenez - San Rafael Abajo
+09/15/2023 06:54 PM,Super,2500,Roberto Verduras
+09/17/2023 07:33 PM,Viajes,2790,Uber Andres | Taller Costura - Av68 Pacifica
+09/17/2023 08:52 PM,Viajes,3210,Didi Andres | Calle 49A4H San Francisco - Salon Comunal Las Vistas Alajuelita
+09/18/2023 05:33 PM,Super,43450,Pali San Josecito
+09/18/2023 07:45 PM,Super,7000,Roberto Verduras
+09/19/2023 09:08 AM,Viajes,1345,Uber Mari | CHerrera Alajuelita - Taller Costura
+09/19/2023 04:30 PM,Super,8000,Steve Huevos
+09/20/2023 10:31 AM,Viajes,2790,Uber Mari | Pacifico - Taller Costura
+09/20/2023 06:04 PM,Viajes,3190,Uber Andres | Taller Costura - Calle 114 Rancho Luna
+09/20/2023 08:25 PM,Viajes,2990,Uber Andres | Calle 114 Rancho Luna - C150 Escazu
+09/20/2023 11:01 PM,Viajes,3790,Uber Andres | Barrio corazon de Jesus Escazu - Taller Costura
+09/22/2023 08:56 AM,Viajes,2990,Uber Mari | Av 6 Entre calles 15 y 17 Distrito Gonzalez Lahmann - Calle Morenos
+09/22/2023 01:05 PM,Viajes,2090,Uber Mari | Estructuras Jimenez - Taller Costura
+09/22/2023 05:30 PM,Comida,5700,McDonalds
+09/23/2023 06:45 PM,Recibos,16580,AYA
+09/24/2023 11:45 AM,Comida,15830,Ready Pizza
+09/24/2023 03:20 PM,Viajes,3897,Uber Marvin | Taller Costura - Guarari Heredia
+09/24/2023 06:40 PM,Super,40090,Pali San Josecito
+09/25/2023 11:25 AM,Super,3000,Roberto Verduras
+09/28/2023 06:18 AM,Viajes,1290,Uber Andres | Taller Costura - Alajuelita
+09/28/2023 11:25 AM,Comida,5000,Subway
+09/28/2023 07:15 PM,Viajes,5225,Uber Andres | 106 Heredia - BoMaria Auxiliadora Barrio Maria Auxiliadora Alajuelita
+09/28/2023 07:22 PM,Super,5760,Pali San Josecito
+09/30/2023 11:49 AM,Comida,5630,McDonalds
+10/01/2023 12:00 AM,Recibos,6000,UberPass
+10/03/2023 04:31 AM,Recibos,33015,Cabletica
+10/03/2023 06:43 AM,Super,8300,Roberto Verduras
+10/04/2023 06:12 AM,Viajes,2540,Didi Mari | Taller Costura - Estructuras Hermanos Jimenez San Jose
+10/04/2023 11:24 AM,Viajes,1985,Uber Mari | C6 Merced - San Rafael Abajo
+10/04/2023 12:15 PM,Viajes,1488,Uber Mari | Valencia 214 San Rafael Abajo - San Rafael Abajo
+10/04/2023 01:20 PM,Super,8000,Steve Huevos
+10/04/2023 01:55 PM,Super,6000,Steve Huevos
+10/05/2023 12:45 PM,Super,6000,Roberto Verduras
+10/05/2023 09:48 PM,Viajes,4032,Uber Andres | Av7 Pitahaya - Taller Costura
+10/06/2023 04:45 PM,Super,70117,Pali San Josecito
+10/07/2023 09:33 AM,Viajes,2590,Uber Mari | Estructuras Jimenez - CCentral Alfredo Volio Merced
+10/07/2023 02:27 PM,Viajes,3590,Uber Mari | Pacifico - Taller Costura
+10/07/2023 03:29 PM,Viajes,990,Uber Mari | Taller Costura - CCambronero Alajuelita
+10/07/2023 04:27 PM,Viajes,1090,Uber Mari | CCambronero Alajuelita - Taller Costura
+10/07/2023 08:14 PM,Viajes,1782,Uber Andres | Taller Costura - Subestacion electrica La Aurora de Alajuelita
+10/07/2023 11:11 PM,Viajes,3395,Uber Andres | Alajuelita - Av23 Santa Teresa
+10/08/2023 12:20 AM,Viajes,3409,Uber Andres | Av23 Santa Teresa - Taller Costura
+10/09/2023 12:22 AM,Comida,5891,McDonalds
+10/09/2023 09:19 AM,Familiar,69900,Sam | Tablet Lenovo -50
+10/10/2023 02:28 PM,Recibos,18739,IPTV 3 meses
+10/10/2023 03:41 PM,Super,5000,Roberto Verduras
+10/10/2023 07:58 PM,Viajes,1445,Uber Andres | Taller Costura - concepcion Alajuelita
+10/10/2023 09:17 PM,Viajes,1547,Uber Andres | Concepcion Alajuelita - Taller Costura
+10/11/2023 11:54 AM,Viajes,2341,Uber Mari | Taller Costura - San Rafael Abajo
+10/11/2023 12:16 PM,Viajes,1390,Uber Mari | Valencia 214 San Rafael Abajo - San Rafael Abajo
+10/11/2023 03:46 PM,Recibos,10560,Kolbi
+10/11/2023 03:47 PM,Recibos,21235,CNFL
+10/11/2023 04:20 PM,Viajes,3790,Uber Mari | Estructuras Jimenez - Tribunales Guadalupe 10801
+10/11/2023 05:54 PM,Super,19280,Pali San Josecito
+10/11/2023 07:17 PM,Comida,11790,Ready Pizza
+10/11/2023 11:11 PM,Viajes,2826,Uber Andres | Taller Costura - Condominio Acave Dos Barrio El Carmen San Antonio
+10/12/2023 10:49 AM,Super,6000,Steve Huevos
+10/12/2023 02:23 PM,Viajes,991,Uber Mari | Estructuras Jimenez - San Rafael Abajo
+10/12/2023 08:51 PM,Viajes,2388,Uber Andres | Taller Costura - Bello Horizonte San Rafael
+10/12/2023 11:58 PM,Viajes,2373,Uber Andres | Bello Horizonte Escazu - Taller Costura
+10/14/2023 02:29 PM,Super,4000,Roberto Verduras
+10/15/2023 10:30 PM,Comida,6239,KFC
+10/17/2023 06:33 AM,Viajes,5366,Uber Andres | Taller Costura - 106 Heredia
+10/17/2023 04:11 PM,Viajes,3860,Uber Andres | 106 Heredia - Alajuelita
+10/17/2023 04:22 PM,Super,20090,Pali San Josecito
+10/17/2023 10:21 PM,Medico,30000,Mari | Tiroides
+10/18/2023 11:37 AM,Viajes,2143,Uber Mari | Taller Costura - Taller Costura
+10/18/2023 03:44 PM,Viajes,2194,Uber Andres | Taller Costura - C14 Merced 10103
+10/18/2023 04:22 PM,Medico,12305,Andres | Clinica 2020
+10/18/2023 04:43 PM,Viajes,2660,Didi Andres | Yamuni - Centro Comercial Plaza America
+10/18/2023 05:05 PM,Super,5880,Mxm Plaza America
+10/18/2023 05:58 PM,Medico,32750,Andres | Qualo 
+10/19/2023 06:54 AM,Viajes,5290,Uber Mari | Taller Costura - Sabana
+10/19/2023 12:21 PM,Comida,5000,McDonalds
+10/20/2023 11:07 AM,Comida,7988,Distrito 87
+10/20/2023 02:35 PM,Super,43376,Pali San Josecito
+10/21/2023 07:40 AM,Recibos,11835,AYA
+10/21/2023 03:13 PM,Viajes,2819,Uber Marvin | Taller Costura - Guarari Heredia
+10/23/2023 10:53 AM,Super,4000,Roberto Verduras
+10/24/2023 05:59 PM,Viajes,2596,Uber Mari | Valencia 214 San Rafael Abajo - Taller Costura
+10/25/2023 06:21 AM,Viajes,1112,Uber Andres | Taller Costura - Alajuelita
+10/25/2023 11:18 AM,Comida,12034,Papa Jhons
+10/25/2023 03:59 PM,Medico,6000,Mari | Inyectables
+10/26/2023 11:40 AM,Viajes,1580,Uber Mari | Taller Costura - San Rafael Abajo
+10/26/2023 03:12 PM,Viajes,1780,Uber Mari | C12 San Sebastian - San Rafael Abajo
+10/28/2023 11:47 AM,Super,199437,Maxipali Alajuelita
+10/29/2023 11:21 AM,Comida,5761,McDonalds
+10/29/2023 12:53 PM,Super,24618,Pali San Josecito
+10/30/2023 11:21 AM,Viajes,1390,Uber Mari | CTanque Alajuelita - San Rafael Abajo
+10/30/2023 12:54 PM,Super,4500,Roberto Verduras
+10/31/2023 04:01 PM,Super,9277,Pali San Josecito
+10/31/2023 05:34 PM,Viajes,3045,Uber Mari | Taller Costura - VWH8MQR San Juan de Dios
+11/01/2023 12:00 AM,Recibos,6000,UberPass
+11/01/2023 12:28 PM,Super,6000,Steve Huevos
+11/01/2023 12:49 PM,Recibos,10560,Kolbi
+11/02/2023 12:04 PM,Super,3000,Miguel Platanos
+11/02/2023 12:05 PM,Super,3000,Roberto Verduras
+11/02/2023 02:25 PM,Familiar,25450,Andres | Unimart Tinta Impresora
+11/02/2023 03:57 PM,Viajes,2690,Uber Andres | Taller Costura - 10603 209 Aserri
+11/03/2023 01:27 AM,Viajes,4797,Uber Andres | Aserri - Santa Lucia
+11/03/2023 07:33 AM,Comida,4200,McDonalds
+11/04/2023 10:07 AM,Medico,22500,Mari | Inyectables
+11/04/2023 12:29 PM,Super,2640,Pali San Josecito
+11/04/2023 01:00 PM,Viajes,3199,Uber Andres | CSan Josecito Alajuelita - Av 40 Moreno Canas
+11/04/2023 02:36 PM,Viajes,6293,Uber Andres | 106 Heredia - Taller Costura
+11/04/2023 03:04 PM,Viajes,3190,Uber Andres | Av 40 Calle Alborada Moreno Canas - Taller Costura
+11/04/2023 03:12 PM,Super,3730,Pali San Josecito
+11/05/2023 12:54 PM,Super,12360,Pali San Josecito
+11/05/2023 07:13 PM,Viajes,2790,Uber Andres | Taller Costura - Bello Horizonte Escazu
+11/06/2023 06:17 AM,Viajes,2390,Uber Andres | Taller Costura - San Rafael Abajo
+11/06/2023 02:42 PM,Comida,8155,Distrito 87
+11/06/2023 04:28 PM,Viajes,2490,Uber Mari | San Rafael Abajo - Taller Costura
+11/07/2023 11:13 AM,Viajes,1690,Uber Andres | Taller Costura - San Rafael Abajo
+11/07/2023 02:32 PM,Super,11540,Pali San Josecito
+11/07/2023 06:54 PM,Viajes,5490,Uber Mari | CCentral Alfredo Volio Catedral - Taller Costura
+11/09/2023 12:01 PM,Viajes,1190,Uber Mari | Estructuras Jimenez - San Rafael Abajo
+11/10/2023 10:21 AM,Comida,4790,Subway
+11/10/2023 11:48 AM,Viajes,4090,Uber Andres | AvCentral Catedral - Taller Costura
+11/11/2023 05:34 PM,Recibos,22060,CNFL
+11/11/2023 05:35 PM,Recibos,33015,Cabletica
+11/12/2023 03:07 PM,Super,20675,Pali San Josecito
+11/12/2023 04:51 PM,Viajes,4190,Uber Marvin | Taller Costura - Guarari Heredia
+11/13/2023 11:30 AM,Viajes,2190,Uber Mari | C14 Merced - San Rafael Abajo
+11/13/2023 02:12 PM,Super,5000,Roberto Verduras
+11/14/2023 02:00 PM,Familiar,36200,Andres | Unimart Camara SD
+11/14/2023 02:01 PM,Familiar,16400,Marvin | Parlante Maxell
+11/14/2023 09:15 PM,Viajes,1090,Uber Andres | Taller Costura - 105 Alajuelita
+11/14/2023 11:01 PM,Viajes,1090,Uber Andres | 105 Alajuelita - Taller Costura
+11/15/2023 12:33 AM,Comida,5891,McDonalds
+11/15/2023 07:24 AM,Viajes,4985,Uber Mari | Taller Costura - PColon Merced
+11/15/2023 11:24 AM,Super,5180,Pali San Josecito
+11/15/2023 06:30 PM,Super,14910,Pali San Josecito
+11/16/2023 12:27 PM,Super,1000,Miguel Platanos
+11/16/2023 07:37 PM,Super,2000,Roberto Verduras
+11/17/2023 01:30 PM,Viajes,1490,Uber Mari | Taller Costura - Alajuelita
+11/17/2023 02:07 PM,Viajes,1490,Uber Mari | AvCentral Alajuelita - Taller Costura
+11/17/2023 08:07 PM,Comida,12255,Ready Pizza
+11/18/2023 11:21 AM,Viajes,3285,Uber Mari | Taller Costura - CCentral Alfredo Volio Merced
+11/18/2023 03:25 PM,Viajes,6690,Uber Mari | CCentral Alfredo Volio Catedral - Taller Costura
+11/19/2023 08:36 AM,Familiar,25000,Mari | Walmart Top
+11/19/2023 06:30 PM,Viajes,4890,Uber Andres | Taller Costura - Sabanilla
+11/19/2023 11:28 PM,Viajes,4990,Uber Andres | C93 Sabanilla - Taller Costura
+11/20/2023 09:43 AM,Viajes,1690,Uber Mari | Desamparados - San Rafael Abajo
+11/20/2023 10:30 AM,Viajes,1041,Uber Mari | Estructuras Jimenez - San Rafael Abajo
+11/20/2023 12:39 PM,Viajes,2089,Uber Andres | Taller Costura - 110 Hatillo No 4
+11/20/2023 01:09 PM,Viajes,1490,Uber Mari | San Rafael Abajo - Taller Costura
+11/21/2023 11:29 AM,Super,39760,Pali San Josecito
+11/21/2023 12:36 PM,Super,3000,Roberto Verduras
+11/22/2023 08:47 AM,Viajes,1590,Uber Mari | Taller Costura - Alajuelita
+11/22/2023 07:38 PM,Viajes,1288,Uber Mari | Alajuelita - Taller Costura
+11/22/2023 08:34 PM,Recibos,11835,AYA
+11/23/2023 02:42 PM,Viajes,2424,Uber Mari | Taller Costura - Rotonda de las Garantias Sociales Zapote 10105
+11/23/2023 03:56 PM,Viajes,3190,Uber Mari | Garantias Sociales Zapote 10105 - Taller Costura
+11/24/2023 11:08 AM,Comida,5787,McDonalds
+11/24/2023 03:03 PM,Viajes,1490,Uber Mari | Av2 Alajuelita - Taller Costura
+11/24/2023 08:50 PM,Viajes,3352,Uber Andres | Taller Costura - 209 Aserri
+11/25/2023 02:01 AM,Viajes,3213,Uber Andres | 10603 209 Aserri - Taller Costura
+11/25/2023 01:02 PM,Familiar,9000,Sam | Tukis
+11/25/2023 02:19 PM,Familiar,30597,Mari | Chromecast TV
+11/25/2023 04:10 PM,Super,8000,Steve Huevos
+11/26/2023 02:48 PM,Viajes,4194,Uber Marvin | Taller Costura - Guarari Heredia
+11/27/2023 02:05 PM,Viajes,2490,Uber Mari | Taller Costura - Frente a la Rotonda de San Sebastian 214 San Sebastian
+11/27/2023 02:54 PM,Viajes,2290,Uber Mari | C12 San Sebastian - Taller Costura
+11/27/2023 05:04 PM,Super,32380,Pali San Josecito
+11/27/2023 08:13 PM,Viajes,3590,Uber Andres | Taller Costura - Av60A Pacifica
+11/28/2023 12:00 AM,Viajes,3382,Uber Andres | Av60A Pacifica - Taller Costura
+11/28/2023 02:17 PM,Viajes,2790,Uber Mari | Taller Costura - Frente a la Rotonda de San Sebastian 214 San Sebastian
+11/28/2023 04:06 PM,Viajes,2490,Uber Mari | Trans24 Bolivar - Taller Costura
+11/29/2023 10:04 AM,Viajes,3190,Uber Mari | Taller Costura - San Rafael Abajo
+11/29/2023 06:20 PM,Comida,7684,McDonalds
+11/30/2023 11:29 AM,Super,4000,Miguel Platanos
+11/30/2023 01:35 PM,Super,3000,Roberto Verduras
+12/01/2023 12:00 AM,Recibos,6000,UberPass
+12/01/2023 02:57 PM,Viajes,1613,Uber Mari | CSan Josecito Alajuelita - San Rafael Abajo
+12/01/2023 06:02 PM,Viajes,1890,Uber Mari | San Rafael Abajo - Taller Costura
+12/01/2023 08:31 PM,Viajes,4490,Uber Andres | Taller Costura - Sabanilla
+12/01/2023 10:17 PM,Comida,10040,McDonalds
+12/01/2023 11:34 PM,Viajes,4352,Uber Andres | C93 Sabanilla - Taller Costura
+12/02/2023 09:47 AM,Viajes,2460,Didi Mari | Avenida 2 - Parque Central San Jose
+12/02/2023 02:41 PM,Viajes,3490,Uber Mari | Pacifico - Taller Costura
+12/02/2023 04:24 PM,Comida,11750,Hamburgesas Dos Manos
+12/02/2023 07:02 PM,Comida,5500,Crepas
+12/02/2023 08:03 PM,Viajes,4077,Uber Andres | 10101 El Carmen 10101 - Taller Costura
+12/02/2023 11:44 PM,Recibos,34666,Cabletica
+12/04/2023 09:45 AM,Viajes,2090,Uber Mari | CSan Josecito Alajuelita - San Rafael Abajo
+12/04/2023 01:21 PM,Viajes,3799,Uber Mari | Pacifico - Taller Costura
+12/04/2023 02:52 PM,Super,38404,Pali San Josecito
+12/04/2023 03:26 PM,Super,5050,Maxipali Alajuelita
+12/04/2023 09:34 PM,Viajes,4077,Uber Andres | 10101 El Carmen 10101 - Taller Costura
+12/04/2023 09:36 PM,Medico,5000,Mari | Tiroides
+12/05/2023 11:29 AM,Viajes,1190,Uber Mari | Taller Costura - CCambronero Alajuelita
+12/05/2023 11:30 AM,Super,4000,Steve Huevos
+12/05/2023 06:20 PM,Super,4000,Steve Huevos
+12/06/2023 08:46 AM,Familiar,16000,Sam | Uniformes
+12/06/2023 09:15 AM,Viajes,2586,Uber Mari | Valencia 214 San Rafael Abajo - Taller Costura
+12/06/2023 05:41 PM,Comida,10588,Subway
+12/07/2023 09:57 AM,Viajes,2193,Uber Mari | Taller Costura - San Rafael Abajo
+12/08/2023 07:52 PM,Super,11050,Pali San Josecito
+12/08/2023 08:16 PM,Viajes,3390,Uber Andres | Taller Costura - Av1 Pitahaya 10102
+12/09/2023 12:22 AM,Viajes,4149,Uber Andres | Av1A 26 Pitahaya 10102 - Taller Costura
+12/10/2023 02:46 PM,Recibos,10560,Kolbi
+12/10/2023 04:36 PM,Viajes,3084,Uber Marvin | Taller Costura - Guarari Heredia
+12/10/2023 05:00 PM,Familiar,5000,Marvin | Moto E13 -50
+12/10/2023 06:06 PM,Super,16730,Mxm Plaza America
+12/10/2023 08:00 PM,Viajes,3722,Uber Marvin | CGuarari Heredia Guarari - Tibas Palmeras
+12/11/2023 12:06 AM,Viajes,4090,Uber Andres | Av 5 3106 Barrio Escalante 10101 - Taller Costura
+12/11/2023 04:24 PM,Viajes,1890,Uber Mari | CTanque Alajuelita - Alajuelita
+12/11/2023 04:54 PM,Viajes,2030,Didi Mari | Calle Herrera - Taller Costura
+12/11/2023 08:31 PM,Viajes,2592,Uber Andres | Taller Costura - Aserri
+12/11/2023 08:56 PM,Comida,16300,Papa Jhons
+12/12/2023 01:10 AM,Viajes,2990,Uber Andres | 10603 209 Aserri - Taller Costura
+12/12/2023 09:34 AM,Viajes,2600,Uber Mari | Taller Costura - San Rafael Abajo
+12/12/2023 02:42 PM,Super,34890,Pali San Josecito
+12/12/2023 05:28 PM,Viajes,2290,Uber Mari | San Rafael Abajo - Taller Costura
+12/14/2023 06:30 PM,Viajes,2790,Uber Mari | San Rafael Abajo - Taller Costura
+12/15/2023 11:32 AM,Recibos,26866,CNFL
+12/15/2023 02:31 PM,Viajes,2540,Didi Andres | Taller Costura - Rey Zapote San Jose
+12/15/2023 03:40 PM,Viajes,3300,Didi Mari | Calle 47 Zapote Curridabat - Taller Costura
+12/15/2023 07:01 PM,Comida,5891,McDonalds
+12/16/2023 08:17 AM,Viajes,5535,Didi Andres | Taller Costura - Morgue Hospital San Juan Dios San Jose
+12/16/2023 02:47 PM,Viajes,4707,Uber Mari | Pacifico - Taller Costura
+12/16/2023 05:05 PM,Viajes,2490,Uber Mari | Taller Costura - Semaforos San Rafael Abajo
+12/17/2023 03:40 PM,Super,21050,Pali San Josecito
+12/18/2023 05:43 AM,Viajes,3690,Uber Mari | Taller Costura - PColon Merced
+12/18/2023 09:53 AM,Viajes,2144,Uber Mari | C14 Merced - Semaforos San Rafael Abajo
+12/18/2023 05:49 PM,Viajes,4842,Uber Andres | Taller Costura - Sabanilla
+12/19/2023 09:16 AM,Comida,5880,McDonalds
+12/19/2023 11:28 AM,Viajes,3833,Uber Andres | C93 Sabanilla - Taller Costura
+12/19/2023 05:32 PM,Super,21625,Pali San Josecito
+12/20/2023 09:53 AM,Viajes,1890,Uber Mari | Taller Costura - Alajuelita MegaSuper
+12/20/2023 10:36 AM,Viajes,1147,Uber Mari | 105 Alajuelita - San Rafael Abajo
+12/20/2023 01:23 PM,Recibos,12620,AYA
+12/20/2023 02:32 PM,Super,29830,Pali San Josecito
+12/22/2023 08:59 AM,Viajes,2390,Uber Andres | Taller Costura - San Rafael Abajo
+12/22/2023 10:36 AM,Viajes,4270,Uber Andres | San Rafael Abajo - AutopProspero Fernandez Escazu
+12/22/2023 12:16 PM,Comida,18730,Spoon
+12/22/2023 01:04 PM,Familiar,28300,Sam | Tennis Puma
+12/22/2023 01:51 PM,Familiar,5000,Sam | Tukis
+12/22/2023 02:13 PM,Comida,3730,McDonalds
+12/22/2023 03:00 PM,Familiar,39800,Andres | Van Housen Camisas
+12/22/2023 07:14 PM,Viajes,2250,Uber Mari | Taller Costura - Alajuelita
+12/22/2023 08:18 PM,Viajes,1390,Uber Mari | Alajuelita - Taller Costura
+12/23/2023 12:01 PM,Viajes,3290,Uber Mari | Taller Costura - San Rafael Abajo
+12/23/2023 02:55 PM,Viajes,2390,Uber Mari | San Rafael Abajo - Taller Costura
+12/23/2023 09:30 PM,Viajes,3873,Uber Andres | Taller Costura - Av60A Pacifica
+12/24/2023 12:25 AM,Viajes,3490,Uber Andres | Av60A Pacifica - Taller Costura
+12/24/2023 12:15 PM,Viajes,1890,Uber Mari | Taller Costura - San Rafael Abajo
+12/24/2023 01:10 PM,Viajes,1590,Uber Mari | San Rafael Abajo - C1 Alajuelita
+12/24/2023 08:24 PM,Viajes,2890,Uber Mari | San Rafael Abajo - Taller Costura
+12/25/2023 06:55 PM,Super,7260,Pali San Josecito
+12/25/2023 07:21 PM,Viajes,4690,Uber Andres | CTanque Alajuelita - Av1 Pitahaya 10102
+12/25/2023 11:14 PM,Viajes,4083,Uber Andres | Av1 Pitahaya 10102 - Taller Costura
+12/26/2023 09:04 AM,Super,31119,Pali San Josecito
+12/27/2023 12:10 PM,Familiar,12000,Mari | Ropa Interior
+12/27/2023 12:11 PM,Super,29800,Walmart
+12/27/2023 12:15 PM,Comida,3800,Satay
+12/28/2023 06:20 AM,Comida,9052,McDonalds
+12/28/2023 06:26 PM,Viajes,1287,Uber Andres | Taller Costura - Alajuelita
+12/29/2023 09:54 AM,Viajes,3162,Uber Mari | Taller Costura - Alajuelita
+12/29/2023 01:23 PM,Viajes,1770,Uber Mari | AvCentral Alajuelita - Taller Costura
+12/29/2023 02:46 PM,Super,36010,Pali San Josecito
+12/29/2023 06:34 PM,Super,6360,Pali San Josecito
+12/29/2023 06:58 PM,Viajes,2890,Uber Andres | Taller Costura - Av42A 10110 Hatillo 5 10110
+12/29/2023 07:50 PM,Comida,11790,Papa Jhons
+12/30/2023 12:38 AM,Viajes,1485,Uber Andres | Av42A 10110 Hatillo 5 10110 - Taller Costura
+12/31/2023 02:28 PM,Super,6275,Pali San Josecito
+01/01/2024 12:00 AM,Recibos,6000,UberPass
+01/01/2024 03:52 AM,Comida,11729,Distrito 87
+01/01/2024 11:13 AM,Recibos,10560,Kolbi
+01/02/2024 03:40 PM,Super,17925,Pali San Josecito
+01/02/2024 09:03 PM,Viajes,4298,Uber Andres | Taller Costura - Av57A Tibas
+01/03/2024 01:05 AM,Viajes,4590,Uber Andres | C18 Tibas - Taller Costura
+01/03/2024 10:28 AM,Viajes,1790,Uber Mari | Taller Costura - San Rafael Abajo
+01/03/2024 01:17 PM,Medico,16750,Mari | Tiroides
+01/03/2024 05:21 PM,Viajes,4090,Uber Mari | Gonzalez Viquez - Taller Costura
+01/03/2024 06:56 PM,Super,24720,Pali San Josecito
+01/04/2024 07:50 AM,Super,7000,Roberto Verduras
+01/04/2024 07:52 AM,Viajes,4090,Didi Mari | Taller Costura - Hospital San Juan Dios San Jose
+01/04/2024 09:43 AM,Viajes,1745,Uber Mari | C14 Merced - Food Court Walmart San Sebastian
+01/04/2024 10:33 AM,Viajes,2243,Uber Mari | C12 San Sebastian - Taller Costura
+01/04/2024 02:47 PM,Viajes,1989,Didi Mari | Taller Costura - Plaza Ventura Sabana San Jose
+01/04/2024 02:58 PM,Viajes,2281,Uber Mari | CMultifamiliar San Rafael Abajo - Plaza Viquez
+01/04/2024 03:16 PM,Viajes,1860,Didi Mari | Transversal 24 - Taller Costura
+01/05/2024 06:37 PM,Super,10800,Pali San Josecito
+01/05/2024 07:04 PM,Viajes,3112,Uber Andres | CTanque Alajuelita - Av1 Pitahaya 10102
+01/06/2024 12:19 AM,Viajes,3590,Uber Andres | Av1 Pitahaya 10102 - VVRRX83 Alajuelita
+01/06/2024 12:36 PM,Viajes,1268,Uber Andres | Taller Costura - Alajuelita
+01/06/2024 02:33 PM,Super,178734,Maxipali Alajuelita
+01/07/2024 11:20 PM,Comida,5891,McDonalds
+01/08/2024 07:02 AM,Viajes,1594,Uber Mari | Taller Costura - Alajuelita
+01/08/2024 07:30 AM,Viajes,1741,Uber Mari | 105 Alajuelita - Taller Costura
+01/08/2024 11:31 AM,Super,5417,Pali San Josecito
+01/09/2024 08:35 AM,Super,2000,Roberto Verduras
+01/11/2024 05:37 AM,Comida,10631,Taco Bell
+01/11/2024 12:08 PM,Medico,23000,Mari | Crema Humectante
+01/11/2024 02:19 PM,Recibos,18168,IPTV 3 meses
+01/11/2024 06:06 PM,Super,5025,Pali San Josecito
+01/12/2024 06:55 PM,Comida,5575,Ready Pizza
+01/13/2024 11:36 AM,Comida,3490,McDonalds
+01/13/2024 11:43 AM,Comida,7900,Burber King
+01/13/2024 02:08 PM,Familiar,16200,Sam | Pantalon
+01/13/2024 04:52 PM,Medico,18000,Mari | Tiroides
+01/15/2024 11:50 AM,Comida,8474,Distrito 87
+01/15/2024 12:02 PM,Recibos,34666,Cabletica
+01/15/2024 12:05 PM,Recibos,37445,CNFL
+01/17/2024 01:48 PM,Super,4000,Steve Huevos
+01/17/2024 08:04 PM,Medico,7000,Andres | Corisan
+01/18/2024 01:06 PM,Viajes,3094,Uber Mari | Taller Costura - 209 Desamparados
+01/18/2024 03:54 PM,Viajes,2797,Uber Mari | C6 Desamparados - Taller Costura
+01/19/2024 08:16 AM,Viajes,1590,Uber Mari | Taller Costura - San Rafael Abajo
+01/19/2024 10:57 AM,Viajes,1985,Uber Mari | Frente a Banco Negro BCR Condominio Las Americas - 110 Hatillo No 4
+01/19/2024 06:25 PM,Viajes,4150,Uber Andres | Taller Costura - Sabanilla
+01/19/2024 10:10 PM,Viajes,3111,Uber Andres | C93 Sabanilla - Multifamiliares Hatillo 5 Dinamarca Hatillo 5
+01/20/2024 11:41 AM,Viajes,2251,Uber Andres | Av42A 10110 Hatillo 5 10110 - Taller Costura
+01/20/2024 06:16 PM,Super,23090,Pali San Josecito
+01/21/2024 12:26 PM,Viajes,1390,Uber Andres | Taller Costura - Alajuelita
+01/21/2024 12:31 PM,Viajes,1685,Uber Mari | Taller Costura - San Rafael Abajo
+01/21/2024 09:34 PM,Viajes,1590,Uber Mari | Semaforos San Rafael Abajo - Taller Costura
+01/22/2024 11:10 AM,Medico,11850,Mari | Inyectables
+01/23/2024 12:32 PM,Super,4000,Steve Huevos
+01/23/2024 06:01 PM,Viajes,2290,Uber Mari | San Rafael Abajo - Taller Costura
+01/23/2024 07:26 PM,Comida,5890,McDonalds
+01/24/2024 09:54 AM,Super,27160,Pali San Josecito
+01/24/2024 10:41 AM,Recibos,13405,AYA
+01/24/2024 01:57 PM,Viajes,1342,Uber Mari | Desamparados - San Rafael Abajo
+01/24/2024 06:23 PM,Viajes,1846,Uber Mari | San Rafael Abajo - Taller Costura
+01/25/2024 11:56 AM,Viajes,3651,Uber Andres | Taller Costura - Heredia Province Heredia 40104
+01/25/2024 07:18 PM,Viajes,3180,Uber Andres | 106 17 Heredia - Av42A 10110 Hatillo 5 10110
+01/26/2024 08:41 AM,Viajes,1390,Uber Mari | Semaforos San Rafael Abajo - San Sebastian
+01/26/2024 09:08 AM,Viajes,1890,Uber Andres | Av42A 10110 Hatillo 5 10110 - Taller Costura
+01/26/2024 10:05 AM,Medico,9480,Mari | Inyectables
+01/26/2024 12:44 PM,Viajes,1790,Uber Mari | Pacifico - Semaforos San Rafael Abajo
+01/26/2024 02:51 PM,Viajes,1790,Uber Mari | Calle Higuerones 2 San Rafael Abajo - 110 Hatillo No 4
+01/26/2024 04:02 PM,Comida,5650,Ready Pizza
+01/26/2024 04:03 PM,Viajes,1790,Uber Mari | 110 Hatillo Centro - Taller Costura
+01/27/2024 11:34 AM,Comida,15206,Distrito 87
+01/27/2024 02:50 PM,Viajes,1490,Uber Mari | Taller Costura - Semaforos San Rafael Abajo
+01/28/2024 07:59 PM,Viajes,1987,Uber Mari | Calle Higuerones 2 San Rafael Abajo - Taller Costura
+01/31/2024 12:10 PM,Super,4000,Steve Huevos
+01/31/2024 03:43 PM,Viajes,1270,Uber Mari | San Rafael Abajo - C42 Hatillo Centro
+02/01/2024 12:00 AM,Recibos,6000,UberPass
+02/01/2024 05:09 AM,Comida,9850,McDonalds
+02/01/2024 09:52 AM,Recibos,34666,Cabletica
+02/01/2024 10:40 AM,Viajes,816,Uber Mari | Taller Costura - Alajuelita
+02/01/2024 12:20 PM,Recibos,10560,Kolbi
+02/01/2024 12:43 PM,Viajes,869,Uber Mari | Taller Costura - 105 Alajuelita
+02/01/2024 01:22 PM,Viajes,1140,Uber Mari | AvCentral Alajuelita - San Rafael Abajo
+02/01/2024 07:42 PM,Viajes,1382,Uber Mari | San Rafael Abajo - Taller Costura
+02/02/2024 11:27 AM,Super,36650,Pali San Josecito
+02/02/2024 02:12 PM,Super,10670,Pali San Josecito
+02/03/2024 12:14 PM,Comida,10590,Ready Pizza
+02/03/2024 07:33 PM,Viajes,3990,Uber Marvin | Taller Costura - Guarari Heredia
+02/04/2024 03:13 AM,Viajes,4790,Uber Andres | Taller Costura - 202 Guadalupe
+02/04/2024 03:43 AM,Viajes,5741,Uber Andres | 202 Guadalupe - Taller Costura
+02/05/2024 05:03 PM,Super,24090,Pali San Josecito
+02/05/2024 06:02 PM,Viajes,2090,Uber Mari | San Rafael Abajo - Taller Costura
+02/06/2024 09:46 AM,Viajes,1399,Uber Mari | Alajuelita - Taller Costura
+02/06/2024 11:15 AM,Super,4000,Steve Huevos
+02/06/2024 03:57 PM,Viajes,2118,Uber Mari | Taller Costura - Taller Costura
+02/07/2024 08:10 AM,Viajes,2190,Uber Mari | Alajuelita Centro Contiguo al MegaSuper Alajuelita - Casa
+02/07/2024 12:34 PM,Viajes,1790,Uber Mari | Pacifico - Semaforos San Rafael Abajo
+02/07/2024 03:01 PM,Viajes,1390,Uber Mari | Taller Costura - Alajuelita
+02/07/2024 05:22 PM,Viajes,1390,Uber Mari | AvCentral Alajuelita - Taller Costura
+02/08/2024 02:34 AM,Recibos,41250,CNFL
+02/08/2024 04:45 PM,Viajes,1890,Uber Mari | Calle Higuerones San Rafael Abajo - Rotonda de San Sebastian
+02/08/2024 05:52 PM,Viajes,3590,Uber Mari | C12 San Sebastian - Taller Costura
+02/08/2024 10:31 PM,Viajes,3974,Uber Andres | Granadilla 11801 - Taller Costura
+02/09/2024 04:05 PM,Super,3500,Roberto Verduras
+02/09/2024 09:49 PM,Viajes,2648,Uber Andres | Taller Costura - Av42A 10110 Hatillo 5 10110
+02/10/2024 10:39 AM,Viajes,1890,Uber Andres | Dinamarca Hatillo 5 - Taller Costura
+02/10/2024 10:47 AM,Super,21650,Pali San Josecito
+02/10/2024 04:41 PM,Viajes,2247,Uber Andres | Taller Costura - Dinamarca Hatillo 5
+02/10/2024 05:43 PM,Super,6550,Pali San Josecito
+02/10/2024 08:25 PM,Viajes,3401,Uber Andres | Taller Costura - Rotonda Betania San Pedro
+02/10/2024 09:35 PM,Comida,12664,McDonalds
+02/11/2024 12:31 AM,Viajes,3956,Uber Andres | Rotonda Betania San Pedro - Taller Costura
+02/12/2024 10:22 AM,Viajes,1290,Uber Mari | Calle Higuerones San Rafael Abajo - Alajuelita MegaSuper Alajuelita
+02/12/2024 10:40 AM,Viajes,1490,Uber Mari | 105 Alajuelita - San Rafael Abajo
+02/13/2024 10:25 AM,Super,23656,Pali San Josecito
+02/13/2024 10:40 AM,Viajes,1490,Uber Mari | 105 Alajuelita - San Rafael Abajo
+02/13/2024 10:53 AM,Super,5250,Steve Huevos
+02/14/2024 05:14 AM,Comida,11670,McDonalds
+02/14/2024 09:22 AM,Viajes,1296,Uber Mari | CTanque Alajuelita - San Rafael Abajo
+02/14/2024 12:34 PM,Super,6850,Pali San Josecito
+02/15/2024 04:44 PM,Super,1000,Roberto Verduras
+02/16/2024 01:25 PM,Super,12610,Pali San Josecito
+02/16/2024 03:53 PM,Viajes,3490,Uber Mari | C2 Dolorosa - Taller Costura
+02/17/2024 03:22 AM,Comida,15680,KFC
+02/17/2024 08:34 PM,Viajes,2690,Uber Andres | Taller Costura - Av42A Hatillo 5
+02/17/2024 08:49 PM,Viajes,2690,Uber Andres | Taller Costura - Av42A Hatillo 5
+02/18/2024 07:49 AM,Comida,8344,McDonalds
+02/18/2024 10:20 AM,Viajes,2167,Uber Andres | Av42A 10110 Hatillo 5 10110 - Taller Costura
+02/19/2024 04:15 PM,Super,4000,Steve Huevos
+02/20/2024 09:40 AM,Viajes,1190,Uber Mari | Taller Costura - Alajuelita
+02/21/2024 03:06 PM,Viajes,2590,Uber Mari | C6 Merced - Taller Costura
+02/22/2024 12:28 PM,Comida,10590,Ready Pizza
+02/22/2024 08:42 PM,Viajes,2490,Uber Andres | Taller Costura - Av42A 10110 Hatillo 5 10110
+02/23/2024 12:26 PM,Recibos,12662,AYA
+02/24/2024 12:42 PM,Super,194267,Maxipali Alajuelita
+02/24/2024 03:50 PM,Super,15020,Pali San Josecito
+02/24/2024 06:07 PM,Viajes,1190,Uber Andres | Taller Costura - Alajuelita
+02/25/2024 11:23 AM,Super,16450,Pali San Josecito
+02/25/2024 04:20 PM,Viajes,3090,Uber Andres | Taller Costura - Sabanilla
+02/25/2024 04:42 PM,Super,3170,Mxm Plaza America
+02/25/2024 07:31 PM,Viajes,1390,Uber Andres | C93 Sabanilla - 30105 Goicoechea
+02/25/2024 10:51 PM,Viajes,3824,Uber Andres | 30105 Goicoechea - Taller Costura
+02/26/2024 11:37 AM,Viajes,1195,Uber Mari | Semaforos San Rafael Abajo - San Rafael Abajo
+02/26/2024 12:43 PM,Viajes,1290,Uber Mari | San Rafael Abajo - Semaforos San Rafael Abajo
+02/28/2024 12:47 PM,Comida,6835,McDonalds
+02/29/2024 01:06 PM,Super,18069,Pali San Josecito
+02/29/2024 01:07 PM,Super,8670,Pali San Josecito
+03/01/2024 12:00 AM,Recibos,6000,UberPass
+03/01/2024 12:26 PM,Super,2050,Pali San Josecito
+03/02/2024 07:08 PM,Viajes,2490,Uber Andres | Taller Costura - Av42A 10110 Hatillo 5 10110
+03/02/2024 11:37 PM,Comida,19914,Papa Jhons
+03/03/2024 03:20 PM,Viajes,2190,Uber Andres | Av42A 10110 Hatillo 5 10110 - CTanque Alajuelita
+03/03/2024 03:29 PM,Super,3110,Pali San Josecito
+03/04/2024 10:21 AM,Viajes,990,Uber Mari | Semaforos San Rafael Abajo - San Rafael Abajo
+03/04/2024 11:16 AM,Viajes,1156,Uber Mari | San Rafael Abajo - Semaforos San Rafael Abajo
+03/05/2024 06:02 AM,Recibos,34656,Cabletica
+03/05/2024 10:08 AM,Viajes,1790,Uber Mari | Taller Costura - San Rafael Abajo
+03/06/2024 01:16 PM,Viajes,2084,Uber Mari | Taller Costura - Av44 25 de Julio
+03/07/2024 12:14 PM,Viajes,1008,Uber Mari | Semaforos San Rafael Abajo - San Rafael Abajo
+03/07/2024 05:20 PM,Viajes,1500,Pirata Mari | Salon Comunal Las Vistas Alajuelita - Alajuelita
+03/07/2024 05:21 PM,Super,3000,Roberto Verduras
+03/08/2024 08:50 AM,Viajes,1090,Uber Mari | Av6 Alajuelita - San Rafael Abajo
+03/08/2024 10:19 AM,Viajes,1190,Uber Andres | Taller Costura - Alajuelita
+03/08/2024 01:22 PM,Viajes,1200,Uber Andres | Av 1 Alajuelita - Taller Costura
+03/08/2024 01:34 PM,Super,28970,Pali San Josecito
+03/09/2024 01:19 AM,Recibos,34565,CNFL
+03/09/2024 01:22 PM,Super,1000,Miguel Platanos
+03/09/2024 02:02 PM,Viajes,3500,Pirata Mari | Clinica Nueva Alajuelita - Estructuras Jimenez
+03/10/2024 10:53 AM,Recibos,10560,Kolbi
+03/11/2024 10:45 AM,Super,21780,Pali San Josecito
+03/11/2024 04:05 PM,Super,5000,Roberto Verduras
+03/11/2024 04:20 PM,Medico,12500,Mari | Tiroides
+03/12/2024 11:23 PM,Comida,6835,McDonalds
+03/13/2024 08:21 AM,Super,3500,Steve Huevos
+03/14/2024 09:25 AM,Viajes,1443,Uber Mari | C12 San Sebastian - Gonzalez Viquez
+03/14/2024 12:03 PM,Viajes,1990,Uber Mari | C6 Merced - Semaforos San Rafael Abajo
+03/14/2024 04:35 PM,Viajes,2000,Pirata Mari | Salon Comunal Las Vistas Alajuelita - Estructuras Jimenez
+03/15/2024 12:01 PM,Super,38780,Pali San Josecito
+03/15/2024 11:23 PM,Comida,8888,Distrito 87
+03/16/2024 10:58 AM,Viajes,3662,Uber Mari | Taller Costura - C10 Merced
+03/16/2024 01:38 PM,Viajes,2599,Uber Mari | Pacifico - Urb Vizcaya 101 San Rafael Abajo
+03/17/2024 11:23 AM,Comida,12300,Comida China
+03/17/2024 03:31 PM,Super,14750,Pali San Josecito
+03/17/2024 04:15 PM,Viajes,2790,Uber Andres | Taller Costura - Teatro Nacional de 1 Catedral
+03/17/2024 08:15 PM,Comida,5850,KFC
+03/19/2024 12:18 PM,Viajes,991,Uber Mari | Semaforos San Rafael Abajo - San Rafael Abajo
+03/19/2024 06:04 PM,Super,16642,Pali San Josecito
+03/19/2024 09:36 PM,Viajes,3024,Uber Andres | Taller Costura - C16 16 San Juan Rosas
+03/19/2024 11:29 PM,Viajes,4366,Uber Andres | C18 Tibas - Taller Costura
+03/20/2024 02:05 PM,Super,9720,Pali San Josecito
+03/21/2024 12:05 PM,Viajes,1090,Uber Mari | Semaforos San Rafael Abajo - San Rafael Abajo
+03/21/2024 03:05 PM,Super,4000,Miguel Platanos
+03/23/2024 09:21 AM,Super,21370,Pali San Josecito
+03/23/2024 11:05 AM,Viajes,2500,Pirata Mari | Salon Comunal Las Vistas Alajuelita - Estructuras Jimenez
+03/24/2024 06:26 PM,Super,2000,Roberto Verduras
+03/24/2024 11:23 PM,Comida,6835,McDonalds
+03/25/2024 12:59 AM,Viajes,4190,Uber Andres | Taller Costura - 10202 San Antonio Barrio El Carmen
+03/25/2024 05:47 AM,Comida,12263,Distrito 87
+03/25/2024 04:02 PM,Super,19649,Pali San Josecito
+03/26/2024 10:05 AM,Viajes,2500,Pirata Mari | Salon Comunal Las Vistas Alajuelita - Estructuras Jimenez
+03/26/2024 09:29 PM,Viajes,3995,Uber Andres | Taller Costura - C18 Las Rosas 11301
+03/26/2024 11:32 PM,Viajes,4182,Uber Andres | C18 Tibas - Taller Costura
+03/27/2024 12:32 PM,Viajes,2890,Uber Mari | San Rafael Abajo - Taller Costura
+03/29/2024 11:50 AM,Comida,13760,KFC
+03/30/2024 12:17 PM,Recibos,32261,AYA
+03/30/2024 01:16 PM,Viajes,2229,Uber Mari | Taller Costura - VWP8CF7 San Juan de Dios
+03/30/2024 01:33 PM,Viajes,3417,Uber Andres | Taller Costura - Calle La Granja Heredia
+03/30/2024 01:58 PM,Comida,5490,El Wok
+03/30/2024 03:12 PM,Super,11240,Mxm Plaza America
+03/30/2024 11:49 PM,Viajes,4523,Uber Andres | Calle La Granja Heredia - Taller Costura
+03/31/2024 10:05 AM,Super,23040,Pali San Josecito
+04/01/2024 12:00 AM,Recibos,6000,UberPass
+04/01/2024 01:48 PM,Viajes,2411,Uber Mari | Taller Costura - Av34 Sagrada Familia
+04/02/2024 12:44 PM,Super,8000,Steve Huevos
+04/02/2024 12:48 PM,Medico,33000,Mari | Tiroides
+04/03/2024 12:00 PM,Viajes,3557,Uber Andres | Taller Costura - AMPM Lagunilla Heredia
+04/03/2024 05:24 PM,Comida,8100,Spoon
+04/03/2024 06:43 PM,Super,1790,Mxm Plaza America
+04/04/2024 01:07 AM,Viajes,5890,Uber Andres | Av16 171 Heredia - Taller Costura
+04/04/2024 05:35 PM,Viajes,1640,Uber Mari | CCambronero Alajuelita - Taller Costura
+04/04/2024 05:46 PM,Viajes,1800,Uber Mari | CTanque Alajuelita - San Rafael Abajo
+04/05/2024 09:01 AM,Super,58273,Pali San Josecito
+04/05/2024 02:29 PM,Recibos,34665,Cabletica
+04/05/2024 02:32 PM,Recibos,10560,Kolbi
+04/05/2024 08:37 PM,Viajes,3347,Uber Andres | Taller Costura - Av60A Pacifica
+04/05/2024 11:30 PM,Viajes,2643,Uber Andres | Av60A Pacifica - Taller Costura
+04/06/2024 01:50 PM,Familiar,9500,Sam | Bolso Kuromi
+04/06/2024 02:47 PM,Familiar,9000,Andres | Pantalonetas Aliss
+04/07/2024 01:12 AM,Recibos,34700,CNFL
+04/08/2024 08:27 AM,Viajes,3590,Uber Mari | Taller Costura - C12 Merced
+04/08/2024 01:05 PM,Super,4000,Steve Huevos
+04/08/2024 03:57 PM,Super,3275,Pali San Josecito
+04/08/2024 04:10 PM,Viajes,2582,Uber Mari | CCentral Alfredo Volio Pacifico - Taller Costura
+04/09/2024 09:29 AM,Viajes,1390,Didi Mari | Parque Alajuelita - Estructuras Hermanos Jimenez
+04/09/2024 09:36 AM,Viajes,1390,Uber Mari | Alajuelita - San Rafael Abajo
+04/09/2024 12:14 PM,Viajes,997,Uber Mari | Semaforos San Rafael Abajo - San Rafael Abajo
+04/09/2024 05:55 PM,Viajes,2300,Pirata Mari | Casa Alajuelita - Estructuras Jimenez
+04/10/2024 10:38 AM,Viajes,1722,Uber Mari | Hatillo - Taller Costura
+04/10/2024 01:31 PM,Viajes,2000,Pirata Mari | Parque Alajuelita - Estructuras Hermanos Jimenez
+04/10/2024 01:59 PM,Medico,6100,Mari | Inyectables
+04/10/2024 04:25 PM,Recibos,18000,IPTV 3 Meses
+04/11/2024 05:11 PM,Viajes,1990,Uber Mari | San Rafael Abajo - Taller Costura
+04/11/2024 05:33 PM,Viajes,1188,Uber Mari | Taller Costura - Alajuelita
+04/11/2024 07:10 PM,Viajes,1481,Uber Mari | Alajuelita - Taller Costura
+04/12/2024 11:25 AM,Comida,11700,Comida China
+04/12/2024 05:59 PM,Viajes,3370,Uber Andres | Taller Costura - Sabanilla
+04/12/2024 09:07 PM,Super,11590,Mxm Plaza America
+04/12/2024 09:24 PM,Viajes,1390,Uber Andres | 202 Sabanilla - XX2FHP2 Mata de Platano
+04/13/2024 01:24 AM,Viajes,3500,Uber Andres | 30105 Goicoechea - Taller Costura
+04/13/2024 01:31 PM,Super,24270,Pali San Josecito
+04/14/2024 03:10 PM,Super,5600,Roberto Verduras
+04/16/2024 01:51 PM,Viajes,3000,Pirata Mari | Parque Alajuelita - Estructuras Hermanos Jimenez
+04/17/2024 07:56 PM,Viajes,3361,Uber Andres | Taller Costura - C106A San Jose
+04/17/2024 10:56 PM,Viajes,4082,Uber Andres | C106A - Taller Costura
+04/18/2024 08:59 PM,Viajes,3853,Uber Andres | Taller Costura - XW4V37M Colegios
+04/18/2024 11:33 PM,Viajes,4275,Uber Andres | Diag47 Moravia - Taller Costura
+04/19/2024 08:48 AM,Super,45239,Pali San Josecito
+04/20/2024 09:18 AM,Viajes,2890,Uber Mari | San Rafael Abajo - Plaza Viquez
+04/20/2024 11:47 AM,Viajes,3842,Uber Mari | C6 Merced - Taller Costura
+04/21/2024 11:20 AM,Viajes,2190,Uber Mari | Taller Costura - Taller Costura
+04/21/2024 12:53 PM,Recibos,18091,AYA
+04/21/2024 04:44 PM,Viajes,3590,Uber Marvin | Taller Costura - Guarari Heredia
+04/22/2024 08:46 AM,Super,12750,Pali San Josecito
+04/22/2024 09:30 AM,Super,8000,Steve Huevos
+04/22/2024 09:36 AM,Viajes,1500,Pirata Mari | Salon Comunal Las Vistas - Alajuelita
+04/22/2024 09:37 AM,Viajes,1500,Pirata Mari | Taller Costura - Estructuras Jimenez
+04/22/2024 04:45 PM,Medico,35000,Mari | Tiroides
+04/23/2024 08:25 PM,Viajes,3366,Uber Andres | Taller Costura - Av24A Montealegre
+04/23/2024 10:17 PM,Viajes,3703,Uber Andres | Av24A Montealegre - Taller Costura
+04/24/2024 11:49 AM,Viajes,1500,Pirata Mari | Casa - Estructuras Jimenez
+04/24/2024 01:40 PM,Super,17050,Pali San Josecito
+04/24/2024 05:31 PM,Viajes,1890,Uber Mari | Alajuelita - Taller Costura
+04/25/2024 01:58 PM,Viajes,1783,Uber Mari | 175 Barrio La Cruz - Semaforos San Rafael Abajo
+04/25/2024 04:56 PM,Super,15500,Pali San Josecito
+04/25/2024 05:38 PM,Super,4000,Miguel Platanos
+04/25/2024 06:27 PM,Viajes,2196,Uber Mari | Calle Vizcaya 1 San Rafael Abajo - Taller Costura
+04/26/2024 01:59 PM,Medico,10000,Andres | Antibacterial Gotas Ojos
+04/27/2024 12:08 PM,Comida,14760,KFC
+04/28/2024 11:27 AM,Comida,11700,Comida China
+04/28/2024 04:46 PM,Viajes,2790,Uber Andres | Taller Costura - Condominio cerca de Pie Monte
+04/28/2024 05:19 PM,Super,17740,Pali San Josecito
+04/29/2024 09:30 AM,Viajes,1790,Uber Mari | 105 Alajuelita - San Rafael Abajo
+04/30/2024 12:48 PM,Comida,16339,Papa Jhons
+05/01/2024 12:00 AM,Recibos,6000,UberPass
+05/01/2024 07:50 PM,Viajes,1500,Pirata Mari | Taller Costura - Estructuras Jimenez
+05/02/2024 12:20 PM,Recibos,10560,Kolbi
+05/02/2024 01:48 PM,Recibos,25360,Telecable
+05/02/2024 06:23 PM,Viajes,1990,Uber Mari | Semaforos San Rafael Abajo - Taller Costura
+05/03/2024 03:42 PM,Familiar,30000,Mari | Sinpe
+05/04/2024 09:50 AM,Super,40426,Pali San Josecito
+05/04/2024 04:45 PM,Viajes,2446,Uber Mari | AvCentral Alajuelita - Taller Costura
+05/05/2024 03:23 PM,Comida,14670,KFC
+05/05/2024 08:17 PM,Viajes,1810,Uber Andres | Taller Costura - Av40A Las Luisas
+05/05/2024 11:51 PM,Viajes,2806,Uber Andres | Av40A Las Luisas - Taller Costura
+05/07/2024 12:34 PM,Viajes,2364,Uber Andres | Taller Costura - C68 Nunciatura
+05/07/2024 01:24 PM,Medico,60000,Andres | Clinica 2020
+05/07/2024 01:35 PM,Comida,20100,Smashburger
+05/07/2024 02:12 PM,Comida,8150,McDonalds
+05/07/2024 03:03 PM,Viajes,2284,Uber Andres | BvErnesto Rohrmoser Nunciatura - Taller Costura
+05/08/2024 01:32 AM,Recibos,38895,CNFL
+05/08/2024 10:34 AM,Super,30948,Pali San Josecito
+05/08/2024 12:54 PM,Viajes,2000,Pirata Mari | San Rafael Abajo - Semaforos San Rafael Abajo
+05/09/2024 11:50 AM,Viajes,1164,Uber Mari | Semaforos San Rafael Abajo - VWVPC32 209 Desamparados
+05/09/2024 12:41 PM,Viajes,2292,Uber Mari | 209 Desamparados - Alajuelita
+05/09/2024 01:29 PM,Super,4000,Miguel Platanos
+05/09/2024 07:37 PM,Viajes,1390,Uber Mari | Alajuelita - Taller Costura
+05/10/2024 08:30 AM,Viajes,2490,Uber Mari | Taller Costura - Clinica Medica del Sur 110 Hatillo Centro
+05/10/2024 01:06 PM,Viajes,3090,Uber Andres | Taller Costura - Sabanilla
+05/10/2024 01:52 PM,Viajes,1293,Uber Mari | AvCentral Alajuelita - Semaforos San Rafael Abajo
+05/10/2024 02:17 PM,Viajes,1596,Uber Mari | Av2 Alajuelita - Taller Costura
+05/10/2024 03:26 PM,Comida,4500,Sabor de la Tortilla
+05/11/2024 04:11 PM,Medico,29850,Mari | Inhalador
+05/11/2024 07:22 PM,Viajes,2590,Uber Andres | Taller Costura - San Rafael Bello Horizonte
+05/11/2024 10:42 PM,Viajes,3190,Uber Andres | Escazu Bello Horizonte - Taller Costura
+05/13/2024 11:14 AM,Viajes,1182,Uber Andres | Taller Costura - Alajuelita
+05/14/2024 11:57 AM,Comida,10720,Subway
+05/16/2024 08:17 AM,Medico,60000,Andres | Clinica 2020
+05/16/2024 04:28 PM,Medico,65500,Mari | Nebulizador Medica Sur
+05/17/2024 09:00 AM,Viajes,2500,Pirata Mari | San Rafael Abajo - Semaforos San Rafael Abajo
+05/17/2024 03:04 PM,Familiar,11990,Andres | Universal Sombrilla
+05/17/2024 03:23 PM,Familiar,12950,Andres | Rosabal Camisa
+05/17/2024 04:46 PM,Viajes,5590,Uber Andres | Paseo de las Flores Heredia - Taller Costura
+05/17/2024 04:51 PM,Recibos,18091,AYA
+05/19/2024 01:21 PM,Super,38421,Pali San Josecito
+05/21/2024 06:35 PM,Super,6427,Pali San Josecito
+05/23/2024 10:46 AM,Super,2000,Miguel Platanos
+05/23/2024 12:16 PM,Comida,8888,Distrito 87
+05/23/2024 08:54 PM,Viajes,2527,Uber Andres | Taller Costura - Trans104 Triangulo
+05/23/2024 11:29 PM,Viajes,3606,Uber Andres | Trans104 Triangulo - Taller Costura
+05/24/2024 09:07 AM,Super,6000,Steve Huevos
+05/24/2024 12:57 PM,Viajes,1290,Uber Mari | Taller Costura - Alajuelita
+05/24/2024 01:30 PM,Viajes,1295,Uber Mari | Av6 Alajuelita - Taller Costura
+05/25/2024 05:50 PM,Medico,23250,Mari | Inyectables
+05/26/2024 11:25 AM,Comida,16035,Ready Pizza
+05/26/2024 11:49 AM,Super,20580,Pali San Josecito
+05/26/2024 05:22 PM,Viajes,3190,Uber Andres | Taller Costura - C22 San Jose
+05/26/2024 08:16 PM,Viajes,3290,Uber Andres | Taller Costura - Plaza Deportes Pavas
+05/27/2024 12:45 AM,Viajes,3290,Uber Andres | C122 Pavas - Taller Costura
+05/28/2024 03:18 PM,Super,18910,Pali San Josecito
+05/28/2024 05:41 PM,Viajes,2390,Uber Mari | Valencia 214 San Rafael Abajo - Taller Costura
+05/29/2024 06:52 AM,Viajes,2390,Uber Mari | Taller Costura - Zona Centro Desamparados
+05/29/2024 11:47 AM,Viajes,2461,Uber Mari | Av10 9 Soledad - Taller Costura
+05/30/2024 08:35 AM,Super,6875,Pali San Josecito
+05/30/2024 01:06 PM,Recibos,3200,AYA
+05/31/2024 09:16 AM,Viajes,2338,Uber Andres | C17 5 El Carmen 10101 - Semaforos San Rafael Abajo
+05/31/2024 11:14 AM,Viajes,990,Uber Mari | Calle Vizcaya San Rafael Abajo - San Rafael Abajo San Rafael Abajo
+05/31/2024 12:18 PM,Viajes,1590,Uber Mari | San Rafael Abajo - Semaforos San Rafael Abajo
+06/01/2024 12:00 AM,Recibos,6000,UberPass
+06/01/2024 01:07 PM,Recibos,10560,Kolbi
+06/01/2024 10:42 PM,Viajes,3490,Uber Andres | Taller Costura - De La iglesia De Lourdes 25 Este 100 Sur Lourdes 7050
+06/02/2024 04:03 AM,Viajes,5343,Uber Andres | San Pedro Montes de Oca Lourdes 11801 - Taller Costura
+06/02/2024 10:53 AM,Viajes,2000,Uber Andres | Taller Costura - Alajuelita
+06/02/2024 12:50 PM,Super,230943,Maxipali Alajuelita
+06/02/2024 06:29 PM,Viajes,4090,Uber Marvin | Taller Costura - Guarari Heredia
+06/03/2024 10:00 AM,Super,3000,Steve Huevos
+06/04/2024 10:21 AM,Viajes,1500,Pirata Mari | Calle Vizcaya San Rafael Abajo - San Rafael Abajo
+06/05/2024 11:10 AM,Comida,8094,Ready Pizza
+06/06/2024 07:54 PM,Recibos,25360,Telecable
+06/07/2024 02:16 PM,Super,15800,Pali San Josecito
+06/08/2024 03:35 AM,Recibos,34435,CNFL
+06/08/2024 08:28 AM,Viajes,3440,Didi Mari | Multifamiliar San Rafael Abajo - Cleto Gonzalez Viquez Soledad
+06/08/2024 12:53 PM,Viajes,2010,Uber Mari | Av6 Dolorosa - Alajuelita
+06/08/2024 01:12 PM,Viajes,1585,Uber Mari | Alajuelita - Taller Costura
+06/09/2024 11:41 AM,Comida,14760,KFC
+06/09/2024 11:45 AM,Super,17690,Pali San Josecito
+06/10/2024 01:25 PM,Super,9930,Pali San Josecito
+06/11/2024 07:59 AM,Viajes,1890,Uber Mari | Taller Costura - San Rafael Abajo
+06/11/2024 05:49 PM,Viajes,1289,Uber Mari | Alajuelita - Taller Costura
+06/14/2024 12:25 PM,Viajes,1490,Uber Mari | San Rafael Abajo - Semaforos San Rafael Abajo
+06/14/2024 04:26 PM,Viajes,2990,Uber Mari | Av18 - Alajuelita
+06/14/2024 05:34 PM,Viajes,1849,Uber Mari | Av6 Alajuelita - Taller Costura
+06/15/2024 09:50 AM,Viajes,1990,Uber Andres | Taller Costura - WV3XHXF 110 Alajuelita
+06/15/2024 12:04 PM,Viajes,1470,Didi Andres | Alajuelita - Taller Costura
+06/15/2024 01:00 PM,Medico,30000,Mari | Tiroides
+06/16/2024 10:45 AM,Super,26241,Pali San Josecito
+06/19/2024 09:25 AM,Super,23059,Pali San Josecito
+06/19/2024 10:41 AM,Viajes,2044,Uber Andres | Taller Costura - Taller Costura
+06/19/2024 12:20 PM,Comida,6835,McDonalds
+06/19/2024 02:24 PM,Viajes,1195,Uber Mari | Taller Costura - Alajuelita
+06/19/2024 02:41 PM,Viajes,1306,Uber Mari | AvCentral Alajuelita - Taller Costura
+06/20/2024 07:13 PM,Familiar,7910,Miriam | TV Cuota 1/3
+06/21/2024 11:35 AM,Super,20740,Pali San Josecito
+06/21/2024 08:38 PM,Viajes,3165,Uber Andres | Taller Costura - Av1 Pitahaya 10102
+06/21/2024 10:12 PM,Comida,8888,Distrito 87
+06/22/2024 12:40 PM,Viajes,2000,Didi Andres | Taller Costura - C12 San Sebastian
+06/22/2024 02:12 PM,Familiar,19900,Marvin | Microondas -20
+06/22/2024 02:58 PM,Super,18520,Walmart
+06/22/2024 03:30 PM,Viajes,2390,Uber Andres | C12 San Sebastian - Taller Costura
+06/23/2024 10:40 AM,Viajes,2130,Didi Andres | C12 San Sebastian - Taller Costura
+06/23/2024 11:23 AM,Familiar,14900,Sam | Almohada
+06/24/2024 09:31 AM,Viajes,1990,Didi Mari | Salon Comunal Las Vistas Alajuelita - Importadora Monge San Rafael Abajo
+06/24/2024 11:09 AM,Super,2680,Pali San Josecito
+06/24/2024 02:26 PM,Recibos,3200,AYA
+06/25/2024 07:05 AM,Viajes,2210,Didi Mari | Hospital San Juan Dios - Salon Comunal Las Vistas Alajuelita
+06/26/2024 11:53 PM,Viajes,1490,Uber Andres | Taller Costura - A vei 18 Alajuelita
+06/27/2024 10:38 AM,Viajes,990,Uber Mari | Calle Vizcaya 1 San Rafael Abajo - San Rafael Abajo
+06/27/2024 01:16 PM,Viajes,2390,Uber Andres | Taller Costura - San Rafael Abajo
+06/27/2024 01:40 PM,Viajes,2199,Uber Andres | San Rafael Abajo - 209 Desamparados
+06/28/2024 05:07 PM,Super,22564,Pali San Josecito
+06/28/2024 05:55 PM,Medico,34500,Mari | Inyectables
+06/29/2024 01:01 PM,Super,11510,Pali San Josecito
+06/30/2024 04:29 PM,Familiar,21800,Andres | Unimart JBL Audifonos
+07/01/2024 12:00 AM,Recibos,6000,UberPass
+07/01/2024 12:42 PM,Recibos,10560,Kolbi
+07/01/2024 02:36 PM,Recibos,25360,Telecable
+07/01/2024 05:30 PM,Viajes,1490,Didi Mari | Correos Alajuelita Costa Rica - Taller Costura
+07/02/2024 04:58 PM,Super,21196,Pali San Josecito
+07/04/2024 11:40 AM,Super,3000,Miguel Platanos
+07/04/2024 12:42 PM,Viajes,1585,Uber Mari | Taller Costura - 110 Hatillo No 4 Costa Rica
+07/04/2024 02:22 PM,Viajes,1750,Didi Mari | Centro Comercial Plaza America - Taller Costura
+07/05/2024 08:26 AM,Viajes,1590,Uber Mari | Taller Costura - San Rafael Abajo Costa Rica
+07/07/2024 11:52 AM,Super,30593,Pali San Josecito
+07/08/2024 12:19 AM,Viajes,1124,Uber Andres | Taller Costura - Vwx2+344 Alajuelita Costa Rica
+07/08/2024 01:59 PM,Super,8120,Pali San Josecito
+07/08/2024 02:53 PM,Viajes,1070,Didi Mari | C 2 - Taller Costura
+07/09/2024 07:54 AM,Viajes,5500,Pirata Mari | San Josecito - Estructuras Jimenez - HSJD
+07/09/2024 03:42 PM,Viajes,2593,Uber Mari | Santa Ana Pozos Costa Rica - Multiplaza Escazu
+07/09/2024 07:22 PM,Viajes,3135,Uber Mari | C Central Alfredo Volio Catedral Costa Rica - Taller Costura
+07/10/2024 11:02 AM,Viajes,1941,Uber Mari | C 6 Merced Costa Rica - Semaforos San Rafael Abajo Costa Rica
+07/10/2024 11:16 AM,Super,14800,Lesly Verduras
+07/10/2024 04:19 PM,Recibos,38445,CNFL
+07/11/2024 10:47 AM,Super,4740,Pali San Josecito
+07/11/2024 12:26 PM,Viajes,3000,Pirata Mari | San Josecito - Clnica Alajuelita
+07/11/2024 03:57 PM,Recibos,18325,IPTV 3 Meses
+07/12/2024 03:54 PM,Super,9655,Pali San Josecito
+07/14/2024 05:48 PM,Viajes,4290,Uber Marvin | Taller Costura - Guarari Heredia
+07/15/2024 01:23 AM,Viajes,1090,Uber Andres | Taller Costura - Vwx2+344 Alajuelita Costa Rica
+07/15/2024 11:23 AM,Viajes,810,Didi Mari | Panaderia San Bosco - Plaza Los Higuerones
+07/15/2024 05:04 PM,Viajes,1990,Uber Mari | San Rafael Abajo Costa Rica - Taller Costura
+07/16/2024 07:55 AM,Super,3000,Steve Huevos
+07/16/2024 02:17 PM,Viajes,5000,Pirata Mari | Casa - Clinica Alajuelita
+07/16/2024 02:36 PM,Viajes,2789,Uber Mari | C Central Alfredo Volio Catedral Costa Rica - Taller Costura
+07/17/2024 10:11 AM,Super,14000,Lesly Verduras
+07/17/2024 08:36 PM,Viajes,3190,Uber Andres | Taller Costura - Xx2f+Hp2 Mata De Platano Costa Rica
+07/18/2024 10:53 AM,Super,4000,Miguel Platanos
+07/18/2024 12:03 PM,Viajes,1010,Didi Mari | Panaderia San Bosco - Importadora Monge
+07/18/2024 05:09 PM,Super,3990,Pali San Josecito
+07/19/2024 11:20 AM,Comida,12634,Ready Pizza
+07/20/2024 05:02 PM,Recibos,10265,AYA
+07/20/2024 07:28 PM,Familiar,7910,Miriam | TV Cuota 2/3
+07/20/2024 07:29 PM,Familiar,79101,Andres | Colchon Cuota 1/3
+07/20/2024 11:06 PM,Viajes,3604,Uber Andres | Taller Costura - Blvd Los Yoses 11501 Los Yoses Costa Rica
+07/22/2024 12:40 PM,Super,32744,Pali San Josecito
+07/22/2024 01:25 PM,Super,3000,Steve Huevos
+07/23/2024 12:04 PM,Super,13670,Pali San Josecito
+07/25/2024 12:44 PM,Super,5000,Lesly Verduras
+07/25/2024 01:19 PM,Comida,7219,KFC
+07/26/2024 08:12 PM,Viajes,3990,Uber Marvin | Taller Costura - Guarari Heredia
+07/27/2024 05:45 PM,Super,14310,Pali San Josecito
+07/28/2024 12:11 PM,Comida,8850,Burber King
+07/28/2024 06:03 PM,Viajes,3290,Uber Andres | Taller Costura - Condominio Cerca De Pie Monte Costa Rica
+07/29/2024 11:08 AM,Super,14828,Pali San Josecito
+07/29/2024 12:02 PM,Super,1500,Lesly Verduras
+07/29/2024 03:07 PM,Medico,30000,Mari | Hipertension
+07/31/2024 12:53 PM,Super,15194,Pali San Josecito
+08/01/2024 12:00 AM,Recibos,6000,UberPass
+08/01/2024 02:58 PM,Recibos,10560,Kolbi
+08/02/2024 05:58 PM,Viajes,2290,Uber Andres | Taller Costura - Salon Comunal Vistas Alajuelita
+08/04/2024 12:20 PM,Comida,15934,KFC
+08/04/2024 02:21 PM,Super,18104,Pali San Josecito
+08/04/2024 03:01 PM,Super,9520,Pali San Josecito
+08/04/2024 05:37 PM,Viajes,3990,Uber Marvin | Taller Costura - Guarari Heredia
+08/05/2024 12:03 PM,Viajes,1460,Didi Mari | Taller Costura - Estructuras Hermanos Jimenez
+08/05/2024 07:51 PM,Viajes,1950,Didi Mari | Panaderia San Bosco - Taller Costura
+08/06/2024 04:05 PM,Viajes,2940,Uber Andres | Taller Costura - Autop Prospero Fernandez Escazu Costa Rica
+08/06/2024 04:51 PM,Familiar,50600,Andres | Opticas Munkel ADISA -78
+08/06/2024 06:45 PM,Comida,8300,Spoon
+08/06/2024 07:44 PM,Familiar,34900,Andres | LECOQ Zapatos Negros
+08/06/2024 08:05 PM,Familiar,1275,Mari | LECOQ Camisa -8275
+08/06/2024 08:39 PM,Familiar,2300,Sam | Lipstick
+08/06/2024 09:22 PM,Viajes,4819,Uber Andres | San Rafael Costa Rica - Salon Comunal Vistas Alajuelita
+08/07/2024 10:17 AM,Recibos,25360,Telecable
+08/07/2024 10:20 AM,Recibos,43980,CNFL
+08/08/2024 11:28 AM,Viajes,3101,Uber Andres | Taller Costura - Ultrapark II
+08/08/2024 04:28 PM,Viajes,4126,Uber Andres | 106 Heredia Costa Rica - Salon Comunal Vistas Alajuelita
+08/10/2024 01:00 PM,Viajes,3271,Uber Andres | Taller Costura - Autop Prospero Fernandez Escazu Costa Rica
+08/10/2024 01:52 PM,Familiar,70330,Mari | Tennis Sketchers
+08/10/2024 02:24 PM,Comida,8500,Santa Katrina
+08/10/2024 03:14 PM,Familiar,57470,Mari | Extremos Tennis
+08/10/2024 03:15 PM,Familiar,17430,Sam | Extremons Tennis Blancas
+08/10/2024 03:44 PM,Familiar,31900,Andres | Van Housen Pantalon
+08/10/2024 03:52 PM,Comida,5100,Taco Bell
+08/11/2024 01:27 PM,Super,14040,Pali San Josecito
+08/13/2024 05:45 PM,Super,17387,Pali San Josecito
+08/14/2024 08:27 PM,Comida,8333,McDonalds
+08/15/2024 12:58 AM,Viajes,1090,Uber Andres | Taller Costura - A Vei 18 Alajuelita Costa Rica
+08/17/2024 02:41 PM,Super,6800,Pali San Josecito
+08/17/2024 09:57 PM,Viajes,5523,Uber Andres | Taller Costura - 113 Heredia Costa Rica
+08/18/2024 01:17 AM,Viajes,4890,Uber Andres | 113 Heredia Costa Rica - Salon Comunal Vistas Alajuelita
+08/18/2024 01:14 PM,Super,202621,Maxipali Alajuelita
+08/19/2024 03:17 PM,Super,4000,Pali San Josecito
+08/20/2024 06:04 PM,Super,8321,Pali San Josecito
+08/20/2024 07:33 PM,Familiar,7910,Miriam | TV Cuota 3/3
+08/20/2024 07:34 PM,Familiar,79101,Andres | Colchon Cuota 2/3
+08/23/2024 05:59 PM,Recibos,14190,AYA
+08/23/2024 06:42 PM,Super,31030,Pali San Josecito
+08/25/2024 05:48 PM,Viajes,3792,Uber Marvin | Taller Costura - Guarari Heredia
+08/27/2024 09:57 AM,Viajes,2290,Uber Andres | Taller Costura - 110 Hatillo No 4 Costa Rica
+08/27/2024 10:08 AM,Super,1910,Mxm Plaza America
+08/27/2024 10:55 AM,Viajes,3010,Didi Andres | Centro Comercial Plaza America - Soda El Castillo
+08/27/2024 05:46 PM,Comida,1990,Subway
+08/27/2024 06:05 PM,Familiar,6990,Marvin | Maquina Razuradora
+08/27/2024 10:51 PM,Viajes,3886,Uber Andres | Casa Marvin - Salon Comunal Vistas Alajuelita
+08/28/2024 11:00 AM,Viajes,2991,Uber Andres | Taller Costura - AMPM Lagunilla Heredia
+08/28/2024 11:44 AM,Viajes,1290,Uber Mari | San Rafael Abajo Costa Rica - San Sebastian Costa Rica
+08/28/2024 01:01 PM,Viajes,1191,Uber Mari | C 12 San Sebastian Costa Rica - Semaforos San Rafael Abajo Costa Rica
+08/28/2024 02:29 PM,Comida,2900,Pops Lagunilla
+08/28/2024 04:48 PM,Viajes,5458,Uber Andres | 106 Heredia Costa Rica - Granadilla Cipreses 11801 Costa Rica
+08/28/2024 05:25 PM,Comida,7890,Subway
+08/28/2024 05:28 PM,Viajes,4000,Pirata Mari | Casa - Clinica Alajuelita
+08/28/2024 10:21 PM,Viajes,3890,Uber Andres | D032a Granadilla 11801 Costa Rica - Salon Comunal Vistas Alajuelita
+08/30/2024 10:35 AM,Viajes,2790,Uber Mari | Taller Costura - Av 2a Merced Costa Rica
+08/30/2024 01:02 PM,Viajes,3000,Pirata Mari | Casa - Clinica Alajuelita
+08/30/2024 02:22 PM,Viajes,2795,Uber Mari | C 8 10 Angeles 10103 Costa Rica - Taller Costura
+08/31/2024 11:10 AM,Super,5960,Pali San Josecito
+08/31/2024 11:11 AM,Super,14414,Pali San Josecito
+08/31/2024 03:04 PM,Comida,10720,Subway
+09/01/2024 12:00 AM,Recibos,6000,UberPass
+09/01/2024 04:30 PM,Recibos,25360,Telecable
+09/01/2024 05:28 PM,Familiar,10000,Mari | Coco Baja Rosa
+09/02/2024 09:45 AM,Viajes,2590,Uber Mari | Pacifico Costa Rica - Taller Costura
+09/02/2024 03:27 PM,Familiar,10000,Andres | Google Drive 100GB
+09/02/2024 06:19 PM,Super,14920,Pali San Josecito
+09/03/2024 05:57 PM,Super,7625,Pali San Josecito
+09/04/2024 07:34 PM,Viajes,1750,Didi Mari | Estructuras Hermanos Jimenez - Taller Costura
+09/06/2024 07:43 PM,Super,24140,Pali San Josecito
+09/06/2024 09:33 PM,Viajes,3133,Uber Andres | Taller Costura - C Masis San Pedro Costa Rica
+09/07/2024 01:52 AM,Viajes,3835,Uber Andres | Rotonda De Betania San Pedro - Salon Comunal Vistas Alajuelita
+09/07/2024 01:47 PM,Comida,15848,KFC
+09/07/2024 03:20 PM,Super,1600,Pali San Josecito
+09/09/2024 10:01 AM,Viajes,1686,Uber Mari | Pacifico Costa Rica - Semaforos San Rafael Abajo Costa Rica
+09/09/2024 11:34 AM,Viajes,990,Uber Mari | Semaforos San Rafael Abajo - San Rafael Abajo
+09/09/2024 04:56 PM,Recibos,10560,Kolbi
+09/09/2024 04:57 PM,Recibos,35870,CNFL
+09/10/2024 02:38 PM,Super,5548,Pali San Josecito
+09/10/2024 04:42 PM,Viajes,3890,Uber Mari | Pacifico Costa Rica - Taller Costura
+09/10/2024 05:26 PM,Viajes,3090,Uber Andres | Taller Costura - San Pedro Costa Rica
+09/11/2024 04:28 PM,Super,12910,Pali San Josecito
+09/12/2024 05:56 AM,Viajes,2225,Uber Andres | Taller Costura - San Rafael Abajo Costa Rica
+09/12/2024 11:48 AM,Familiar,7500,Mari | Cinepolis Bettlejuice II
+09/12/2024 11:59 AM,Viajes,1090,Uber Mari | Semaforos San Rafael Abajo Costa Rica - San Rafael Abajo Costa Rica
+09/12/2024 01:04 PM,Super,4500,Miguel Platanos
+09/12/2024 04:54 PM,Viajes,1876,Uber Mari | C 12 San Sebastian Costa Rica - Semaforos San Rafael Abajo Costa Rica
+09/13/2024 02:30 PM,Super,4710,Pali San Josecito
+09/14/2024 11:29 AM,Viajes,3290,Uber Andres | Taller Costura - Curridabat El Hogar 11801 Costa Rica
+09/14/2024 11:40 AM,Comida,4950,KFC
+09/14/2024 11:44 AM,Comida,5925,Taco Bell
+09/14/2024 11:52 AM,Comida,3900,Teriyaki
+09/14/2024 01:15 PM,Comida,3115,McDonalds
+09/14/2024 01:39 PM,Familiar,5000,Sam | Tukis
+09/14/2024 02:55 PM,Viajes,2710,Didi Andres | Multiplaza Curridabat Curridabat 11801 Costa Rica - Pollo El Doradito
+09/14/2024 07:16 PM,Viajes,2041,Uber Andres | San Rafael Abajo Costa Rica - Salon Comunal Vistas Alajuelita
+09/15/2024 07:45 PM,Viajes,3290,Uber Andres | Taller Costura - C 35 Costa Rica
+09/16/2024 12:39 PM,Super,11459,Pali San Josecito
+09/16/2024 04:57 PM,Viajes,1192,Uber Andres | Taller Costura - Wv3x+4xm Alajuelita Costa Rica
+09/16/2024 05:03 PM,Comida,4203,Ready Pizza
+09/17/2024 11:37 AM,Super,3000,Steve Huevos
+09/20/2024 05:33 AM,Recibos,7125,AYA
+09/20/2024 06:25 PM,Comida,5714,Burber King
+09/21/2024 10:03 AM,Viajes,2190,Uber Mari | Taller Costura - 105 San Jose Alajuelita Costa Rica
+09/21/2024 04:03 PM,Viajes,1290,Uber Andres | Salon Comunal Las Vistas Alajuelita - WV3X+4XM San Jose Province Alajuelita Costa Rica
+09/22/2024 12:37 PM,Comida,15848,KFC
+09/22/2024 04:11 PM,Viajes,3190,Uber Marvin | Taller Costura - Clinica Guarari Heredia
+09/23/2024 07:45 AM,Viajes,2281,Uber Mari | Taller Costura - San Jose San Rafael Abajo Costa Rica
+09/23/2024 02:37 PM,Super,15787,Pali San Josecito
+09/23/2024 07:07 PM,Comida,6703,McDonalds
+09/24/2024 06:06 PM,Viajes,3405,Uber Mari | San Rafel Abajo - Taller Costura
+09/26/2024 11:55 AM,Super,5000,Miguel Platanos
+09/27/2024 11:26 AM,Familiar,79101,Andres | Colchon Cuota 3/3
+09/28/2024 09:30 AM,Medico,30000,Mari | Hipertension
+09/28/2024 02:11 PM,Comida,7000,Ready Pizza
+09/28/2024 07:16 PM,Viajes,3012,Uber Andres | Salon Comunal - Escazu
+09/28/2024 11:39 PM,Viajes,3160,Uber Andres | Escazu - Salon Comunal Vistas
+09/30/2024 05:02 AM,Viajes,2591,Uber Mari | Salon Comunal - San Rafael Abajo
+09/30/2024 10:28 AM,Super,8930,Pali San Josecito
+10/01/2024 08:50 AM,Viajes,2199,Uber Mari | Salon Comunal - San Rafael Abajo
+10/01/2024 01:10 PM,Super,198085,Maxipali Alajuelita
+10/01/2024 03:14 PM,Viajes,2890,Uber Mari | San Rafael Abajo - Plaza Viquez SJO
+10/02/2024 12:16 PM,Super,14334,Pali San Josecito
+10/02/2024 02:35 PM,Recibos,10560,Kolbi
+10/02/2024 05:24 PM,Super,6992,McDonalds
+10/02/2024 06:00 PM,Medico,10000,Mari | Probiotico
+10/02/2024 07:00 PM,Familiar,30000,Marvin | Sinpe
+10/02/2024 09:16 PM,Familiar,5154,Sam | Vidrio Tablet Lenovo
+10/02/2024 09:17 PM,Familiar,17046,Andres | Amazon
+10/03/2024 04:24 AM,Comida,6629,McDonalds
+10/04/2024 12:05 PM,Viajes,4000,Pirata Mari | Taller Costura - Parque Alajuelita
+10/05/2024 08:48 AM,Super,18973,Pali San Josecito
+10/05/2024 11:11 AM,Viajes,3135,Uber Mari | San Pedro Plaza Medica Este - San Rafael Abajo
+10/06/2024 12:58 PM,Viajes,3300,Didi Andres | Taller Costura - Multiplaza Curridabat
+10/06/2024 03:03 PM,Comida,3950,Teriyaki
+10/06/2024 03:42 PM,Comida,2600,Taco Bell
+10/06/2024 03:57 PM,Familiar,5000,Sam | Tukis
+10/06/2024 04:33 PM,Super,2200,Crispy Churros
+10/06/2024 05:24 PM,Viajes,3998,Uber Andres | Multiplaza Curridabat - Taller Costura
+10/07/2024 07:35 AM,Viajes,2291,Uber Mari | Taller Costura - San Rafael Abajo Costa Rica
+10/07/2024 09:55 AM,Super,3000,Steve Huevos
+10/07/2024 12:22 PM,Viajes,1401,Uber Mari | San Rafael Abajo - Kinder Sam
+10/07/2024 09:04 PM,Viajes,2000,Pirata Mari | Taller Costura - Clinica Alajuelita
+10/08/2024 09:35 AM,Recibos,25360,Telecable
+10/09/2024 08:42 AM,Super,10277,Pali San Josecito
+10/10/2024 01:37 AM,Recibos,48235,CNFL
+10/10/2024 10:27 AM,Viajes,1333,Uber Mari | Parque Alajuelita - San Rafael Abajo
+10/10/2024 10:40 AM,Super,10119,Pali San Josecito
+10/10/2024 12:08 PM,Super,5000,Miguel Platanos
+10/11/2024 02:08 PM,Familiar,15880,Andres | Amazon Compras
+10/11/2024 06:54 PM,Super,7630,Ready Pizza
+10/12/2024 10:02 AM,Viajes,1682,Uber Mari | Taller Costura - Clinica Alajuelita
+10/12/2024 10:43 AM,Viajes,1290,Uber Mari | Clinica Alajuelita - Taller Costura
+10/12/2024 10:49 AM,Recibos,18052,IPTV 3 Meses
+10/12/2024 07:41 PM,Viajes,1845,Uber Andres | Taller Costura - Plaza America
+10/12/2024 11:08 PM,Viajes,2833,Uber Andres | McDonalds Parque la Paz - Taller de Costura
+10/13/2024 01:45 PM,Super,12351,Pali San Josecito
+10/13/2024 01:47 PM,Super,4956,Pali San Josecito
+10/13/2024 05:22 PM,Viajes,3496,Uber Marvin | Taller Costura - Guarari Heredia
+10/14/2024 04:56 PM,Super,4384,Pali San Josecito
+10/14/2024 05:28 PM,Viajes,1102,Uber Andres | Taller Costura - Parque Alajuelita
+10/15/2024 08:13 AM,Viajes,2312,Uber Mari | Taller Costura - Parque Alajuelita
+10/16/2024 10:55 AM,Comida,6500,Pollo Asado Alex
+10/16/2024 04:58 PM,Familiar,20600,Doris | Camara Xiami C200
+10/16/2024 06:11 PM,Medico,35000,Mari | Tiroides
+10/16/2024 06:12 PM,Familiar,7000,Mari | Lamina Zinc
+10/17/2024 04:10 PM,Super,12552,Pali San Josecito
+10/18/2024 10:57 AM,Super,16337,Pali San Josecito
+10/19/2024 10:58 AM,Viajes,2025,Uber Mari | San Rafael Abajo - Desamparados
+10/19/2024 05:47 PM,Viajes,2970,Didi Andres | San Pedro - Taller Costura
+10/19/2024 11:43 PM,Viajes,3790,Uber Andres | Taller Costura - San Pedro
+10/21/2024 11:38 AM,Viajes,1790,Uber Mari | Taller Costura - San Rafael Abajo Costa Rica
+10/21/2024 12:17 PM,Super,5390,Pali San Josecito
+10/21/2024 05:45 PM,Familiar,100000,Mari | Celular Samsung A55 (-100 DO.)
+10/21/2024 06:06 PM,Familiar,5000,Marvin | Olla Multiuso (-15 Mario -15 Marvin)
+10/22/2024 09:09 AM,Viajes,1800,Uber Mari | Taller Costura - San Rafael Abajo Costa Rica
+10/22/2024 04:36 PM,Viajes,2178,Uber Mari | San Rafael Abajo - Taller Costura
+10/23/2024 01:40 PM,Familiar,30160,Andres | Unimart Te Joselyn
+10/24/2024 11:52 AM,Familiar,6000,Mari | Estuche Vidrio Samsung A55
+10/24/2024 04:52 PM,Super,5000,Miguel Platanos
+10/25/2024 04:27 AM,Comida,9842,McDonalds
+10/25/2024 08:44 AM,Super,7831,Pali San Josecito
+10/25/2024 03:15 PM,Super,3236,Pali San Josecito
+10/25/2024 05:09 PM,Viajes,1290,Uber Andres | Taller Costura - Parque Alajuelita
+10/25/2024 05:59 PM,Familiar,40000,Andres | Te Joselyn
+10/26/2024 10:37 AM,Super,9920,Pali San Josecito
+10/26/2024 08:43 PM,Viajes,3234,Uber Andres | Taller Costura - San Pedro
+10/26/2024 11:43 PM,Comida,5390,McDonalds
+10/27/2024 05:30 PM,Viajes,3208,Uber Marvin | Taller Costura - Guarari Heredia
+10/28/2024 11:38 AM,Viajes,1350,Uber Mari | Parque Alajuelita - San Rafael Abajo
+10/28/2024 06:14 PM,Viajes,2000,Pirata Mari | Taller Costura - Clinica Alajuelita
+10/29/2024 05:12 PM,Viajes,1218,Uber Andres | Taller Costura - Parque Alajuelita
+10/30/2024 12:36 PM,Super,25070,Pali San Josecito
+10/30/2024 12:58 PM,Recibos,19649,AYA
+10/31/2024 09:01 AM,Super,11990,Pali San Josecito
+10/31/2024 07:14 PM,Viajes,3020,Didi Andres | Curridabat - Parque de la Paz
+10/31/2024 09:58 PM,Comida,4600,McDonalds
+10/31/2024 10:35 PM,Viajes,3290,Uber Andres | Parque de la Paz - Taller Costura
+11/01/2024 12:39 PM,Familiar,35000,Andres | Olla Multiuso Veronica #1
+11/01/2024 10:38 PM,Comida,14677,KFC
+11/02/2024 09:46 AM,Super,28216,Pali San Josecito
+11/02/2024 09:44 PM,Viajes,4680,Didi Andres | San Pedro - Taller Costura
+11/03/2024 03:08 AM,Viajes,5400,Didi Andres | Curridabat - Salon Comunal 
+11/04/2024 07:28 AM,Viajes,6140,Didi Mari | Taller Costura - Hospital San Juan Dios
+11/04/2024 03:26 PM,Viajes,2000,Pirata Mari | Estructuras Jimenez - Taller Costura
+11/05/2024 10:19 AM,Super,19942,Pali San Josecito
+11/05/2024 01:41 PM,Super,20000,Verduras Leslie
+11/06/2024 01:03 PM,Viajes,3150,Uber Mari | San Rafael Abajo - Paseo Colon
+11/06/2024 05:07 PM,Viajes,5700,Uber Mari | Hospital San Juan Dios - Taller Costura
+11/07/2024 01:19 PM,Super,5000,Miguel Platanos
+11/07/2024 02:16 PM,Super,10250,Pali San Josecito
+11/08/2024 11:08 AM,Comida,8700,Comida China
+11/09/2024 03:39 PM,Super,3000,Katherine Platanos
+11/10/2024 10:18 AM,Comida,6217,Ready Pizza
+11/10/2024 03:51 PM,Recibos,48370,CNFL
+11/10/2024 03:53 PM,Recibos,25360,Telecable
+11/10/2024 08:47 PM,Viajes,3930,Didi Andres | Taller Costura - Curridabat
+11/10/2024 11:49 PM,Comida,4750,Mcdonalds
+11/11/2024 12:21 AM,Viajes,4490,Uber Andres | Curridabat - Taller Costura
+11/11/2024 04:08 PM,Super,5840,Pali San Josecito
+11/11/2024 04:30 PM,Super,22261,Pali San Josecito
+11/12/2024 11:11 AM,Super,10000,Verduras Leslie
+11/12/2024 07:03 PM,Recibos,10560,Kolbi
+11/13/2024 06:36 AM,Viajes,2043,Uber Mari | Taller Costura - Estructuras Jimenez
+11/13/2024 08:31 AM,Viajes,4490,Didi Mari | San Rafael Arriba - Mediplaza Escazu
+11/13/2024 12:47 PM,Super,9210,Pali San Josecito
+11/14/2024 05:11 AM,Viajes,1664,Uber Mari | Taller Costura - Clinica Alajuelita
+11/14/2024 07:58 AM,Viajes,2500,Pirata Mari | Taller Costura - Clinica Alajuelita
+11/14/2024 09:56 AM,Super,9971,Pali San Josecito
+11/14/2024 05:16 PM,Viajes,1294,Uber Andres | Taller de Costura - El encuentro
+11/14/2024 05:29 PM,Familiar,149901,Andres | Samsung A35 + Samsung Watch Fit 3
+11/14/2024 06:17 PM,Familiar,3725,Andres | Recipiente Vidrio Gelatina
+11/14/2024 07:20 PM,Viajes,2115,Uber Andres | El encuentro - Taller de Costura
+11/15/2024 12:01 PM,Super,5590,Pali San Josecito
+11/15/2024 01:16 PM,Familiar,8000,Andres | A35 temperado y estuche
+11/16/2024 07:10 AM,Comida,6899,Mcdonalds
+11/16/2024 06:02 PM,Super,3000,Katherine Platanos
+11/17/2024 09:55 AM,Super,17540,Pali San Josecito
+11/18/2024 02:43 PM,Super,17070,Pali San Josecito
+11/19/2024 06:12 PM,Viajes,4096,Uber Andres | Taller Costura - Pavas
+11/20/2024 12:27 AM,Viajes,3113,Uber Andres | Pavas - Taller Costura
+11/20/2024 08:57 AM,Super,5330,Pali San Josecito
+11/21/2024 09:55 AM,Viajes,2274,Uber Mari | Taller Costura - San Rafael Abajo Costa Rica
+11/21/2024 11:58 AM,Super,2320,Pali San Josecito
+11/21/2024 12:03 PM,Super,3068,Pali San Josecito
